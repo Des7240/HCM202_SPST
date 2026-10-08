@@ -1,0 +1,807 @@
+[
+  {
+    "id": "MLN131-C05-Q001",
+    "courseId": "mln131",
+    "chapter": "Cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 5,
+    "topic": "cơ cấu xã hội",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Theo giáo trình, nhận định nào đúng về cơ cấu xã hội?",
+    "options": [
+      "Là tập hợp các cá nhân được phân loại theo mức thu nhập trong xã hội",
+      "Là hệ thống các nghề nghiệp và sự phân công lao động giữa các ngành",
+      "Là sự phân bố các nhóm dân cư theo địa bàn và quy mô cư trú",
+      "Là tổng thể các cộng đồng người và quan hệ xã hội giữa các cộng đồng"
+    ],
+    "answer": 3,
+    "explanation": "Về cơ cấu xã hội, giáo trình xác định: là tổng thể các cộng đồng người và quan hệ xã hội giữa các cộng đồng. Các phương án khác làm sai lệch phạm vi, điều kiện hoặc bản chất của nội dung này.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 5 > B.1.1 > Cơ cấu xã hội – giai cấp",
+      "text": "Về cơ cấu xã hội, giáo trình xác định: là tổng thể các cộng đồng người và quan hệ xã hội giữa các cộng đồng."
+    }
+  },
+  {
+    "id": "MLN131-C05-Q002",
+    "courseId": "mln131",
+    "chapter": "Cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 5,
+    "topic": "cơ cấu xã hội – giai cấp",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Nội dung nào phản ánh đúng cơ cấu xã hội – giai cấp?",
+    "options": [
+      "Là hệ thống các giai cấp, tầng lớp và quan hệ giữa họ trong một xã hội",
+      "Là hệ thống các nhóm nghề nghiệp và quan hệ chuyên môn giữa họ trong sản xuất",
+      "Là hệ thống cộng đồng dân cư và quan hệ cư trú giữa thành thị với nông thôn",
+      "Là hệ thống các nhóm tuổi và quan hệ giữa các thế hệ trong một xã hội"
+    ],
+    "answer": 0,
+    "explanation": "Về cơ cấu xã hội – giai cấp, giáo trình xác định: là hệ thống các giai cấp, tầng lớp và quan hệ giữa họ trong một xã hội. Các phương án khác làm sai lệch phạm vi, điều kiện hoặc bản chất của nội dung này.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 5 > B.1.1 > Cơ cấu xã hội – giai cấp",
+      "text": "Về cơ cấu xã hội – giai cấp, giáo trình xác định: là hệ thống các giai cấp, tầng lớp và quan hệ giữa họ trong một xã hội."
+    }
+  },
+  {
+    "id": "MLN131-C05-Q003",
+    "courseId": "mln131",
+    "chapter": "Cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 5,
+    "topic": "vị trí của cơ cấu giai cấp",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Điểm cốt lõi của vị trí của cơ cấu giai cấp là gì?",
+    "options": [
+      "Có vị trí ngang bằng với các loại cơ cấu xã hội khác trong mọi giai đoạn",
+      "Có vị trí quan trọng chủ yếu vì phản ánh sự phân bố dân cư và nghề nghiệp",
+      "Có vị trí cơ bản, chi phối vì gắn với sở hữu, tổ chức sản xuất và quyền lực chính trị",
+      "Có vị trí quyết định nên có thể xem nhẹ cơ cấu dân cư, nghề nghiệp, dân tộc và tôn giáo"
+    ],
+    "answer": 2,
+    "explanation": "Về vị trí của cơ cấu giai cấp, giáo trình xác định: có vị trí quan trọng vì gắn trực tiếp với quan hệ sản xuất và quyền lực. Các phương án khác làm sai lệch phạm vi, điều kiện hoặc bản chất của nội dung này.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 5 > B.1.1 > Cơ cấu xã hội – giai cấp",
+      "text": "Về vị trí của cơ cấu giai cấp, giáo trình xác định: có vị trí quan trọng vì gắn trực tiếp với quan hệ sản xuất và quyền lực."
+    }
+  },
+  {
+    "id": "MLN131-C05-Q004",
+    "courseId": "mln131",
+    "chapter": "Cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 5,
+    "topic": "quan hệ với cơ cấu kinh tế",
+    "difficulty": "Thông hiểu",
+    "kind": "trinh_tu_quan_he",
+    "stem": "Cách hiểu nào phù hợp về quan hệ với cơ cấu kinh tế?",
+    "options": [
+      "Cơ cấu giai cấp biến đổi độc lập với những thay đổi của phương thức sản xuất",
+      "Biến đổi cơ cấu kinh tế quy định và kéo theo biến đổi cơ cấu xã hội – giai cấp",
+      "Cơ cấu giai cấp luôn biến đổi trước rồi mới quy định sự chuyển dịch cơ cấu kinh tế",
+      "Cơ cấu kinh tế tác động đến nghề nghiệp nhưng không làm đổi vị trí các giai cấp"
+    ],
+    "answer": 1,
+    "explanation": "Giáo trình xác định cơ cấu xã hội – giai cấp biến đổi gắn liền và bị quy định bởi cơ cấu kinh tế; thay đổi phương thức sản xuất, ngành nghề và thành phần kinh tế kéo theo thay đổi vị trí, vai trò các giai cấp, tầng lớp.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 5 > B.1.1 > Cơ cấu xã hội – giai cấp",
+      "text": "Cơ cấu xã hội – giai cấp biến đổi gắn liền, bị quy định bởi cơ cấu kinh tế và thay đổi theo cơ cấu ngành, thành phần kinh tế."
+    }
+  },
+  {
+    "id": "MLN131-C05-Q005",
+    "courseId": "mln131",
+    "chapter": "Cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 5,
+    "topic": "tính lịch sử của cơ cấu giai cấp",
+    "difficulty": "Thông hiểu",
+    "kind": "thong_hieu_phan_biet",
+    "stem": "Giáo trình nhấn mạnh điều gì khi bàn về tính lịch sử của cơ cấu giai cấp?",
+    "options": [
+      "Mỗi hình thái và giai đoạn phát triển có cơ cấu giai cấp đặc thù",
+      "Các xã hội khác nhau vẫn có cơ cấu giai cấp giống nhau",
+      "Cơ cấu giai cấp được xác lập chủ yếu bằng ý chí chính trị của lực lượng cầm quyền",
+      "Sự chuyển dịch giữa các tầng lớp không phụ thuộc hoàn cảnh lịch sử của từng quốc gia"
+    ],
+    "answer": 0,
+    "explanation": "Về tính lịch sử của cơ cấu giai cấp, giáo trình xác định: mỗi hình thái và giai đoạn phát triển có cơ cấu giai cấp đặc thù. Các phương án khác làm sai lệch phạm vi, điều kiện hoặc bản chất của nội dung này.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 5 > B.1.1 > Cơ cấu xã hội – giai cấp",
+      "text": "Về tính lịch sử của cơ cấu giai cấp, giáo trình xác định: mỗi hình thái và giai đoạn phát triển có cơ cấu giai cấp đặc thù."
+    }
+  },
+  {
+    "id": "MLN131-C05-Q006",
+    "courseId": "mln131",
+    "chapter": "Cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 5,
+    "topic": "quan hệ giữa các cơ cấu xã hội",
+    "difficulty": "Thông hiểu",
+    "kind": "trinh_tu_quan_he",
+    "stem": "Phát biểu nào diễn đạt chính xác quan hệ giữa các cơ cấu xã hội?",
+    "options": [
+      "Cơ cấu nghề nghiệp chi phối một chiều và không chịu tác động từ cơ cấu giai cấp",
+      "Các cơ cấu dân cư, nghề nghiệp, dân tộc và tôn giáo tồn tại tách rời cơ cấu giai cấp",
+      "Cơ cấu giai cấp tác động đến kinh tế nhưng không ảnh hưởng các lĩnh vực xã hội khác",
+      "Cơ cấu giai cấp tác động qua lại với nghề nghiệp, dân cư, dân tộc và tôn giáo"
+    ],
+    "answer": 3,
+    "explanation": "Về quan hệ giữa các cơ cấu xã hội, giáo trình xác định: cơ cấu giai cấp tác động qua lại với nghề nghiệp, dân cư, dân tộc và tôn giáo. Các phương án khác làm sai lệch phạm vi, điều kiện hoặc bản chất của nội dung này.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 5 > B.1.1 > Cơ cấu xã hội – giai cấp",
+      "text": "Về quan hệ giữa các cơ cấu xã hội, giáo trình xác định: cơ cấu giai cấp tác động qua lại với nghề nghiệp, dân cư, dân tộc và tôn giáo."
+    }
+  },
+  {
+    "id": "MLN131-C05-Q007",
+    "courseId": "mln131",
+    "chapter": "Cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 5,
+    "topic": "phân tích chuyển dịch lao động",
+    "difficulty": "Vận dụng",
+    "kind": "van_dung_tinh_huong",
+    "stem": "Một nghiên cứu chỉ thống kê người lao động đổi nghề mà không xét sở hữu, lợi ích và vị trí giai cấp. Cần bổ sung cách phân tích nào?",
+    "options": [
+      "Cần gắn thay đổi nghề nghiệp với sở hữu, lợi ích và vị trí giai cấp",
+      "Cần quy đổi các nghề mới thành những nhóm tuổi để xác định chiều hướng chuyển dịch",
+      "Cần tập trung vào nơi cư trú vì địa bàn tự nó quyết định vị trí giai cấp của lao động",
+      "Cần xem thay đổi nghề là đủ để kết luận mà không đối chiếu quan hệ sản xuất"
+    ],
+    "answer": 0,
+    "explanation": "Về phân tích chuyển dịch lao động, giáo trình xác định: cần gắn thay đổi nghề nghiệp với sở hữu, lợi ích và vị trí giai cấp. Các phương án khác làm sai lệch phạm vi, điều kiện hoặc bản chất của nội dung này.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 5 > B.1.1 > Cơ cấu xã hội – giai cấp",
+      "text": "Về phân tích chuyển dịch lao động, giáo trình xác định: cần gắn thay đổi nghề nghiệp với sở hữu, lợi ích và vị trí giai cấp."
+    }
+  },
+  {
+    "id": "MLN131-C05-Q008",
+    "courseId": "mln131",
+    "chapter": "Cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 5,
+    "topic": "tính đa dạng của cơ cấu quá độ",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Yếu tố nào gắn trực tiếp với tính đa dạng của cơ cấu quá độ?",
+    "options": [
+      "Nhiều giai cấp, tầng lớp và nhóm xã hội cùng tồn tại, đan xen",
+      "Các giai cấp cũ mất đi đồng thời ngay khi thời kỳ quá độ bắt đầu",
+      "Những yếu tố xã hội cũ biến mất trước khi các yếu tố xã hội mới hình thành",
+      "Cơ cấu nhiều thành phần làm các giai cấp thu hẹp thành hai nhóm ổn định"
+    ],
+    "answer": 0,
+    "explanation": "Về tính đa dạng của cơ cấu quá độ, giáo trình xác định: nhiều giai cấp, tầng lớp và nhóm xã hội cùng tồn tại, đan xen. Các phương án khác làm sai lệch phạm vi, điều kiện hoặc bản chất của nội dung này.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 5 > B.1.2 > Biến đổi cơ cấu xã hội – giai cấp trong thời kỳ quá độ",
+      "text": "Về tính đa dạng của cơ cấu quá độ, giáo trình xác định: nhiều giai cấp, tầng lớp và nhóm xã hội cùng tồn tại, đan xen."
+    }
+  },
+  {
+    "id": "MLN131-C05-Q009",
+    "courseId": "mln131",
+    "chapter": "Cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 5,
+    "topic": "xu hướng biến đổi theo kinh tế",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Theo giáo trình, nhận định nào đúng về xu hướng biến đổi theo kinh tế?",
+    "options": [
+      "Cơ cấu giai cấp chuyển dịch trước và quyết định trực tiếp cơ cấu ngành kinh tế",
+      "Công nghiệp hóa làm đổi công nghệ nhưng giữ nguyên vị trí của các giai cấp, tầng lớp",
+      "Cơ cấu giai cấp chuyển dịch chủ yếu theo các chính sách văn hóa và giáo dục",
+      "Cơ cấu giai cấp chuyển dịch theo cơ cấu ngành và các thành phần kinh tế"
+    ],
+    "answer": 3,
+    "explanation": "Về xu hướng biến đổi theo kinh tế, giáo trình xác định: cơ cấu giai cấp chuyển dịch theo cơ cấu ngành và các thành phần kinh tế. Các phương án khác làm sai lệch phạm vi, điều kiện hoặc bản chất của nội dung này.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 5 > B.1.2 > Biến đổi cơ cấu xã hội – giai cấp trong thời kỳ quá độ",
+      "text": "Về xu hướng biến đổi theo kinh tế, giáo trình xác định: cơ cấu giai cấp chuyển dịch theo cơ cấu ngành và các thành phần kinh tế."
+    }
+  },
+  {
+    "id": "MLN131-C05-Q010",
+    "courseId": "mln131",
+    "chapter": "Cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 5,
+    "topic": "xu hướng xích lại gần nhau",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Nội dung nào phản ánh đúng xu hướng xích lại gần nhau?",
+    "options": [
+      "Các giai cấp duy trì tách biệt vì không hình thành được lợi ích chung trong thời kỳ quá độ",
+      "Các giai cấp đồng nhất ngay khi thiết lập quan hệ liên minh trong xã hội mới",
+      "Các giai cấp có thể tăng hợp tác và thu hẹp khác biệt nhưng chưa đồng nhất ngay",
+      "Các khác biệt giai cấp tiếp tục mở rộng và không chịu tác động của cải biến xã hội"
+    ],
+    "answer": 2,
+    "explanation": "Về xu hướng xích lại gần nhau, giáo trình xác định: các giai cấp có thể tăng hợp tác và thu hẹp khác biệt nhưng chưa đồng nhất ngay. Các phương án khác làm sai lệch phạm vi, điều kiện hoặc bản chất của nội dung này.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 5 > B.1.2 > Biến đổi cơ cấu xã hội – giai cấp trong thời kỳ quá độ",
+      "text": "Về xu hướng xích lại gần nhau, giáo trình xác định: các giai cấp có thể tăng hợp tác và thu hẹp khác biệt nhưng chưa đồng nhất ngay."
+    }
+  },
+  {
+    "id": "MLN131-C05-Q011",
+    "courseId": "mln131",
+    "chapter": "Cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 5,
+    "topic": "tính vừa thống nhất vừa mâu thuẫn",
+    "difficulty": "Thông hiểu",
+    "kind": "thong_hieu_phan_biet",
+    "stem": "Điểm cốt lõi của tính vừa thống nhất vừa mâu thuẫn là gì?",
+    "options": [
+      "Lợi ích riêng của các tầng lớp hòa nhập và không còn tạo ra mâu thuẫn trong liên minh",
+      "Các tầng lớp có lợi ích chung trong xây dựng xã hội mới nhưng còn khác biệt cụ thể",
+      "Quan hệ giữa các tầng lớp chủ yếu là đấu tranh và không hình thành mặt hợp tác",
+      "Quan hệ giữa các tầng lớp dựa trên địa vị xã hội hơn là nhu cầu và lợi ích kinh tế"
+    ],
+    "answer": 1,
+    "explanation": "Về tính vừa thống nhất vừa mâu thuẫn, giáo trình xác định: các tầng lớp có lợi ích chung trong xây dựng xã hội mới nhưng còn khác biệt cụ thể. Các phương án khác làm sai lệch phạm vi, điều kiện hoặc bản chất của nội dung này.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 5 > B.1.2 > Biến đổi cơ cấu xã hội – giai cấp trong thời kỳ quá độ",
+      "text": "Về tính vừa thống nhất vừa mâu thuẫn, giáo trình xác định: các tầng lớp có lợi ích chung trong xây dựng xã hội mới nhưng còn khác biệt cụ thể."
+    }
+  },
+  {
+    "id": "MLN131-C05-Q012",
+    "courseId": "mln131",
+    "chapter": "Cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 5,
+    "topic": "vai trò chính sách xã hội",
+    "difficulty": "Thông hiểu",
+    "kind": "trinh_tu_quan_he",
+    "stem": "Cách hiểu nào phù hợp về vai trò chính sách xã hội?",
+    "options": [
+      "Dùng mệnh lệnh hành chính để xóa nhanh các khác biệt giữa giai cấp và tầng lớp",
+      "Để cơ cấu giai cấp tự biến đổi vì chính sách xã hội không tác động đến quan hệ lợi ích",
+      "Giao cho cơ chế thị trường phân phối cơ hội mà không cần định hướng mục tiêu xã hội",
+      "Điều tiết lợi ích và tạo cơ hội giúp định hướng biến đổi cơ cấu theo mục tiêu tiến bộ"
+    ],
+    "answer": 3,
+    "explanation": "Về vai trò chính sách xã hội, giáo trình xác định: điều tiết lợi ích và tạo cơ hội giúp định hướng biến đổi cơ cấu theo mục tiêu tiến bộ. Các phương án khác làm sai lệch phạm vi, điều kiện hoặc bản chất của nội dung này.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 5 > B.3.2.2 > Phương hướng xây dựng cơ cấu xã hội – giai cấp và tăng cường liên minh",
+      "text": "Về vai trò chính sách xã hội, giáo trình xác định: điều tiết lợi ích và tạo cơ hội giúp định hướng biến đổi cơ cấu theo mục tiêu tiến bộ."
+    }
+  },
+  {
+    "id": "MLN131-C05-Q013",
+    "courseId": "mln131",
+    "chapter": "Cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 5,
+    "topic": "xuất hiện tầng lớp mới",
+    "difficulty": "Thông hiểu",
+    "kind": "thong_hieu_phan_biet",
+    "stem": "Giáo trình nhấn mạnh điều gì khi bàn về xuất hiện tầng lớp mới?",
+    "options": [
+      "Cho thấy cơ cấu giai cấp đã mất vai trò trong nền kinh tế nhiều thành phần",
+      "Do kết cấu kinh tế nhiều thành phần làm cơ cấu xã hội – giai cấp trở nên đa dạng",
+      "Xuất phát từ việc đổi tên các nghề cũ mà không gắn với biến đổi kinh tế",
+      "Là kết quả chủ yếu của biến động dân số, không gắn với kết cấu kinh tế nhiều thành phần"
+    ],
+    "answer": 1,
+    "explanation": "Kết cấu kinh tế nhiều thành phần làm cơ cấu xã hội – giai cấp biến đổi đa dạng, phức tạp và xuất hiện những tầng lớp xã hội mới. Các phương án khác tách sự xuất hiện này khỏi cơ sở kinh tế được giáo trình xác định.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 5 > B.1.2 > Biến đổi cơ cấu xã hội – giai cấp trong thời kỳ quá độ",
+      "text": "Kết cấu kinh tế nhiều thành phần dẫn đến cơ cấu xã hội – giai cấp đa dạng, phức tạp và sự xuất hiện của những tầng lớp xã hội mới."
+    }
+  },
+  {
+    "id": "MLN131-C05-Q014",
+    "courseId": "mln131",
+    "chapter": "Cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 5,
+    "topic": "đánh giá chênh lệch lợi ích",
+    "difficulty": "Vận dụng",
+    "kind": "van_dung_tinh_huong",
+    "stem": "Một báo cáo về liên minh chỉ nhấn mạnh lợi ích chung, còn báo cáo khác coi mọi khác biệt lợi ích đều không thể giải quyết. Cách đánh giá nào phù hợp với giáo trình?",
+    "options": [
+      "Giữ nguyên cơ cấu hiện có để tránh phát sinh thêm mâu thuẫn giữa các chủ thể",
+      "Xem mọi khác biệt lợi ích là đối kháng và tách các chủ thể khỏi khối liên minh",
+      "Tập trung vào lợi ích chung vì các mâu thuẫn lợi ích sẽ tự mất trong quá trình phát triển",
+      "Thừa nhận cả thống nhất và mâu thuẫn lợi ích, liên tục phát hiện và giải quyết kịp thời"
+    ],
+    "answer": 3,
+    "explanation": "Giáo trình nêu rằng bên cạnh sự thống nhất về lợi ích kinh tế vẫn có những mâu thuẫn ở mức độ khác nhau; thực hiện liên minh vì thế phải liên tục phát hiện và giải quyết mâu thuẫn kịp thời để tạo đồng thuận.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 5 > B.2 > Liên minh giai cấp, tầng lớp trong thời kỳ quá độ",
+      "text": "Quan hệ lợi ích trong liên minh vừa có sự thống nhất vừa có mâu thuẫn; cần phát hiện và giải quyết kịp thời để tạo đồng thuận."
+    }
+  },
+  {
+    "id": "MLN131-C05-Q015",
+    "courseId": "mln131",
+    "chapter": "Cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 5,
+    "topic": "tính tất yếu kinh tế của liên minh",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Kết luận nào đúng khi xem xét tính tất yếu kinh tế của liên minh?",
+    "options": [
+      "Phân công lao động làm công nghiệp, nông nghiệp, khoa học và dịch vụ phụ thuộc lẫn nhau",
+      "Các lĩnh vực kinh tế phát triển hiệu quả hơn khi chuyên môn hóa và tách rời quan hệ hỗ trợ",
+      "Liên minh hình thành chủ yếu từ tình cảm đoàn kết hơn là nhu cầu và lợi ích kinh tế",
+      "Nông nghiệp có thể hiện đại hóa bằng nguồn lực riêng mà không gắn với công nghiệp và khoa học"
+    ],
+    "answer": 0,
+    "explanation": "Về tính tất yếu kinh tế của liên minh, giáo trình xác định: phân công lao động làm công nghiệp, nông nghiệp, khoa học và dịch vụ phụ thuộc lẫn nhau. Các phương án khác làm sai lệch phạm vi, điều kiện hoặc bản chất của nội dung này.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 5 > B.2 > Liên minh giai cấp, tầng lớp trong thời kỳ quá độ",
+      "text": "Về tính tất yếu kinh tế của liên minh, giáo trình xác định: phân công lao động làm công nghiệp, nông nghiệp, khoa học và dịch vụ phụ thuộc lẫn nhau."
+    }
+  },
+  {
+    "id": "MLN131-C05-Q016",
+    "courseId": "mln131",
+    "chapter": "Cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 5,
+    "topic": "tính tất yếu chính trị của liên minh",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Yếu tố nào gắn trực tiếp với tính tất yếu chính trị của liên minh?",
+    "options": [
+      "Liên minh tạo cơ sở xã hội rộng lớn cho quyền lực của nhân dân lao động",
+      "Giai cấp công nhân có thể giành và giữ chính quyền bằng lực lượng riêng của mình",
+      "Liên minh phân tán lực lượng chính trị và làm suy giảm vai trò lãnh đạo của công nhân",
+      "Liên minh là thỏa thuận tạm thời trong giai đoạn giành chính quyền, không kéo dài khi xây dựng xã hội mới"
+    ],
+    "answer": 0,
+    "explanation": "Về tính tất yếu chính trị của liên minh, giáo trình xác định: liên minh tạo cơ sở xã hội rộng lớn cho quyền lực của nhân dân lao động. Các phương án khác làm sai lệch phạm vi, điều kiện hoặc bản chất của nội dung này.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 5 > B.2 > Liên minh giai cấp, tầng lớp trong thời kỳ quá độ",
+      "text": "Về tính tất yếu chính trị của liên minh, giáo trình xác định: liên minh tạo cơ sở xã hội rộng lớn cho quyền lực của nhân dân lao động."
+    }
+  },
+  {
+    "id": "MLN131-C05-Q017",
+    "courseId": "mln131",
+    "chapter": "Cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 5,
+    "topic": "chủ thể nòng cốt liên minh",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Theo giáo trình, nhận định nào đúng về chủ thể nòng cốt liên minh?",
+    "options": [
+      "Giai cấp công nhân là lực lượng nòng cốt và không cần liên kết với các tầng lớp lao động khác",
+      "Doanh nhân, tiểu chủ và người giàu là ba lực lượng cơ bản của khối liên minh",
+      "Công nhân, nông dân và trí thức là lực lượng cơ bản của khối liên minh",
+      "Công nhân, nông dân và trí thức tham gia liên minh với vai trò kinh tế, chính trị giống nhau"
+    ],
+    "answer": 2,
+    "explanation": "Về chủ thể nòng cốt liên minh, giáo trình xác định: công nhân, nông dân và trí thức là lực lượng cơ bản của khối liên minh. Các phương án khác làm sai lệch phạm vi, điều kiện hoặc bản chất của nội dung này.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 5 > B.2 > Liên minh giai cấp, tầng lớp trong thời kỳ quá độ",
+      "text": "Về chủ thể nòng cốt liên minh, giáo trình xác định: công nhân, nông dân và trí thức là lực lượng cơ bản của khối liên minh."
+    }
+  },
+  {
+    "id": "MLN131-C05-Q018",
+    "courseId": "mln131",
+    "chapter": "Cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 5,
+    "topic": "vai trò lãnh đạo của công nhân",
+    "difficulty": "Thông hiểu",
+    "kind": "trinh_tu_quan_he",
+    "stem": "Nội dung nào phản ánh đúng vai trò lãnh đạo của công nhân?",
+    "options": [
+      "Được thực hiện trực tiếp bằng địa vị kinh tế mà không thông qua tổ chức chính trị",
+      "Được thể hiện bằng việc đặt lợi ích riêng của công nhân lên trên lợi ích liên minh",
+      "Đòi hỏi thu hẹp vai trò của nông dân và trí thức trong quá trình xây dựng xã hội mới",
+      "Được thực hiện thông qua Đảng, đồng thời tập hợp các lực lượng vào mục tiêu chung"
+    ],
+    "answer": 3,
+    "explanation": "Về vai trò lãnh đạo của công nhân, giáo trình xác định: được thực hiện thông qua Đảng và dựa trên lợi ích chung, không phải đặc quyền. Các phương án khác làm sai lệch phạm vi, điều kiện hoặc bản chất của nội dung này.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 5 > B.2 > Liên minh giai cấp, tầng lớp trong thời kỳ quá độ",
+      "text": "Về vai trò lãnh đạo của công nhân, giáo trình xác định: được thực hiện thông qua Đảng và dựa trên lợi ích chung, không phải đặc quyền."
+    }
+  },
+  {
+    "id": "MLN131-C05-Q019",
+    "courseId": "mln131",
+    "chapter": "Cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 5,
+    "topic": "nguyên tắc liên minh",
+    "difficulty": "Thông hiểu",
+    "kind": "thong_hieu_phan_biet",
+    "stem": "Theo định nghĩa của giáo trình, nội dung cốt lõi của liên minh giai cấp, tầng lớp là gì?",
+    "options": [
+      "Tập hợp các giai cấp bằng quyền lực nhà nước để làm đồng nhất lợi ích của họ",
+      "Liên kết, hợp tác và hỗ trợ nhau để thực hiện lợi ích các chủ thể cùng mục tiêu xã hội chủ nghĩa",
+      "Phân công một lực lượng hy sinh lợi ích lâu dài để bảo đảm vai trò của lực lượng khác",
+      "Phối hợp các lực lượng trong giai đoạn giành chính quyền rồi kết thúc khi bước vào xây dựng xã hội mới"
+    ],
+    "answer": 1,
+    "explanation": "Giáo trình định nghĩa liên minh là sự liên kết, hợp tác, hỗ trợ giữa các giai cấp, tầng lớp nhằm thực hiện nhu cầu, lợi ích của các chủ thể và tạo động lực thực hiện mục tiêu xã hội chủ nghĩa.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 5 > B.2 > Liên minh giai cấp, tầng lớp trong thời kỳ quá độ",
+      "text": "Liên minh là sự liên kết, hợp tác và hỗ trợ giữa các giai cấp, tầng lớp để thực hiện lợi ích của các chủ thể và mục tiêu xã hội chủ nghĩa."
+    }
+  },
+  {
+    "id": "MLN131-C05-Q020",
+    "courseId": "mln131",
+    "chapter": "Cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 5,
+    "topic": "liên minh và lực lượng sản xuất",
+    "difficulty": "Vận dụng",
+    "kind": "van_dung_tinh_huong",
+    "stem": "Công nghiệp, nông nghiệp và khoa học trong một địa phương phát triển rời rạc, không hỗ trợ nhau. Giải pháp nào phù hợp với vai trò của liên minh đối với lực lượng sản xuất?",
+    "options": [
+      "Duy trì cách tổ chức rời rạc vì liên minh không tạo tác động trực tiếp đến năng suất",
+      "Giới hạn liên minh trong mục tiêu chính trị và để từng lĩnh vực tự giải quyết nhu cầu kinh tế",
+      "Hợp tác giữa các lực lượng góp phần phát triển sản xuất và tạo cơ sở vật chất mới",
+      "Tách hoạt động khoa học khỏi công nghiệp và nông nghiệp để tránh xung đột lợi ích"
+    ],
+    "answer": 2,
+    "explanation": "Về liên minh và lực lượng sản xuất, giáo trình xác định: hợp tác giữa các lực lượng góp phần phát triển sản xuất và tạo cơ sở vật chất mới. Các phương án khác làm sai lệch phạm vi, điều kiện hoặc bản chất của nội dung này.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 5 > B.2 > Liên minh giai cấp, tầng lớp trong thời kỳ quá độ",
+      "text": "Về liên minh và lực lượng sản xuất, giáo trình xác định: hợp tác giữa các lực lượng góp phần phát triển sản xuất và tạo cơ sở vật chất mới."
+    }
+  },
+  {
+    "id": "MLN131-C05-Q021",
+    "courseId": "mln131",
+    "chapter": "Cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 5,
+    "topic": "dự án thiếu tiếng nói nông dân",
+    "difficulty": "Vận dụng",
+    "kind": "van_dung_tinh_huong",
+    "stem": "Một dự án nông nghiệp công nghệ cao do doanh nghiệp và chuyên gia quyết định, nông dân không được tham gia hoặc chia sẻ lợi ích. Cần điều chỉnh thế nào?",
+    "options": [
+      "Giữ nguyên cách làm vì chủ thể có vốn và chuyên môn có quyền quyết định lợi ích",
+      "Cần thiết kế lại cơ chế tham gia và phân chia lợi ích bình đẳng giữa các chủ thể",
+      "Bổ sung tuyên truyền về liên minh nhưng tiếp tục để doanh nghiệp quyết định phương án",
+      "Chuyển nông dân thành bên nhận hỗ trợ, không tham gia bàn bạc hay phân chia lợi ích"
+    ],
+    "answer": 1,
+    "explanation": "Về dự án thiếu tiếng nói nông dân, giáo trình xác định: cần thiết kế lại cơ chế tham gia và phân chia lợi ích bình đẳng giữa các chủ thể. Các phương án khác làm sai lệch phạm vi, điều kiện hoặc bản chất của nội dung này.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 5 > B.2 > Liên minh giai cấp, tầng lớp trong thời kỳ quá độ",
+      "text": "Về dự án thiếu tiếng nói nông dân, giáo trình xác định: cần thiết kế lại cơ chế tham gia và phân chia lợi ích bình đẳng giữa các chủ thể."
+    }
+  },
+  {
+    "id": "MLN131-C05-Q022",
+    "courseId": "mln131",
+    "chapter": "Cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 5,
+    "topic": "vai trò công nhân Việt Nam",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Phát biểu nào diễn đạt chính xác vai trò công nhân Việt Nam?",
+    "options": [
+      "Là lực lượng hỗ trợ sản xuất nhưng không giữ vai trò lãnh đạo cách mạng",
+      "Là giai cấp lãnh đạo thông qua Đảng và đi đầu trong công nghiệp hóa",
+      "Là lực lượng lao động đông đảo nhưng không đại diện phương thức sản xuất tiên tiến",
+      "Là giai cấp đại diện sở hữu tư bản và giữ vai trò điều hành nền kinh tế thị trường"
+    ],
+    "answer": 1,
+    "explanation": "Về vai trò công nhân Việt Nam, giáo trình xác định: là giai cấp lãnh đạo thông qua Đảng và đi đầu trong công nghiệp hóa. Các phương án khác làm sai lệch phạm vi, điều kiện hoặc bản chất của nội dung này.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 5 > B.3.1 > Cơ cấu xã hội – giai cấp ở Việt Nam",
+      "text": "Về vai trò công nhân Việt Nam, giáo trình xác định: là giai cấp lãnh đạo thông qua Đảng và đi đầu trong công nghiệp hóa."
+    }
+  },
+  {
+    "id": "MLN131-C05-Q023",
+    "courseId": "mln131",
+    "chapter": "Cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 5,
+    "topic": "vai trò nông dân Việt Nam",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Kết luận nào đúng khi xem xét vai trò nông dân Việt Nam?",
+    "options": [
+      "Là nguồn cung lao động cho đô thị nhưng không còn vai trò chủ thể ở nông thôn",
+      "Là lực lượng sản xuất nông nghiệp nhưng giữ vai trò thứ yếu trong công nghiệp hóa",
+      "Là lực lượng chiến lược, chủ thể nông nghiệp, nông thôn và xây dựng nông thôn mới",
+      "Là lực lượng chiến lược của nông nghiệp nên hoạt động tách khỏi liên minh giai cấp"
+    ],
+    "answer": 2,
+    "explanation": "Về vai trò nông dân Việt Nam, giáo trình xác định: là lực lượng chiến lược, chủ thể nông nghiệp, nông thôn và xây dựng nông thôn mới. Các phương án khác làm sai lệch phạm vi, điều kiện hoặc bản chất của nội dung này.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 5 > B.3.1 > Cơ cấu xã hội – giai cấp ở Việt Nam",
+      "text": "Về vai trò nông dân Việt Nam, giáo trình xác định: là lực lượng chiến lược, chủ thể nông nghiệp, nông thôn và xây dựng nông thôn mới."
+    }
+  },
+  {
+    "id": "MLN131-C05-Q024",
+    "courseId": "mln131",
+    "chapter": "Cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 5,
+    "topic": "vai trò trí thức",
+    "difficulty": "Thông hiểu",
+    "kind": "trinh_tu_quan_he",
+    "stem": "Yếu tố nào gắn trực tiếp với vai trò trí thức?",
+    "options": [
+      "Là lực lượng tư vấn văn hóa nhưng không trực tiếp tham gia công nghiệp hóa, hiện đại hóa",
+      "Là lực lượng lao động sáng tạo đặc biệt quan trọng trong công nghiệp hóa và kinh tế tri thức",
+      "Là lực lượng chuyên môn tập trung vào văn hóa và đứng ngoài hoạt động kinh tế, công nghệ",
+      "Là lực lượng sáng tạo đặc biệt nhưng không phải thành viên của khối liên minh cơ bản"
+    ],
+    "answer": 1,
+    "explanation": "Giáo trình xác định trí thức là lực lượng lao động sáng tạo đặc biệt quan trọng đối với công nghiệp hóa, hiện đại hóa, hội nhập quốc tế và xây dựng kinh tế tri thức; đồng thời là lực lượng trong khối liên minh.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 5 > B.3.1 > Cơ cấu xã hội – giai cấp ở Việt Nam",
+      "text": "Trí thức là lực lượng lao động sáng tạo đặc biệt quan trọng trong công nghiệp hóa, hiện đại hóa, hội nhập và xây dựng kinh tế tri thức."
+    }
+  },
+  {
+    "id": "MLN131-C05-Q025",
+    "courseId": "mln131",
+    "chapter": "Cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 5,
+    "topic": "vai trò doanh nhân",
+    "difficulty": "Thông hiểu",
+    "kind": "thong_hieu_phan_biet",
+    "stem": "Theo giáo trình, nhận định nào đúng về vai trò doanh nhân?",
+    "options": [
+      "Góp phần huy động nguồn lực, tổ chức sản xuất kinh doanh và tạo việc làm theo pháp luật",
+      "Có lợi ích kinh tế riêng nên tất yếu đối lập với mục tiêu phát triển chung của đất nước",
+      "Tổ chức sản xuất kinh doanh và đảm nhiệm chức năng quản lý thay cho Nhà nước",
+      "Huy động nguồn lực để kinh doanh mà không gắn với trách nhiệm đối với người lao động và xã hội"
+    ],
+    "answer": 0,
+    "explanation": "Về vai trò doanh nhân, giáo trình xác định: góp phần huy động nguồn lực, tổ chức sản xuất kinh doanh và tạo việc làm theo pháp luật. Các phương án khác làm sai lệch phạm vi, điều kiện hoặc bản chất của nội dung này.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 5 > B.3.1 > Cơ cấu xã hội – giai cấp ở Việt Nam",
+      "text": "Về vai trò doanh nhân, giáo trình xác định: góp phần huy động nguồn lực, tổ chức sản xuất kinh doanh và tạo việc làm theo pháp luật."
+    }
+  },
+  {
+    "id": "MLN131-C05-Q026",
+    "courseId": "mln131",
+    "chapter": "Cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 5,
+    "topic": "đội ngũ thanh niên",
+    "difficulty": "Thông hiểu",
+    "kind": "trinh_tu_quan_he",
+    "stem": "Nội dung nào phản ánh đúng đội ngũ thanh niên?",
+    "options": [
+      "Là lực lượng xung kích, sáng tạo và nguồn nhân lực cho phát triển đất nước",
+      "Là nhóm dân số trẻ có vai trò chủ yếu ở hoạt động văn hóa, thể thao và giải trí",
+      "Là nguồn lao động tương lai nên việc giáo dục lý tưởng có thể xếp sau đào tạo nghề",
+      "Là lực lượng chuẩn bị cho tương lai nhưng chưa tham gia vào ổn định và phát triển hiện tại"
+    ],
+    "answer": 0,
+    "explanation": "Về đội ngũ thanh niên, giáo trình xác định: là lực lượng xung kích, sáng tạo và nguồn nhân lực cho phát triển đất nước. Các phương án khác làm sai lệch phạm vi, điều kiện hoặc bản chất của nội dung này.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 5 > B.3.1 > Cơ cấu xã hội – giai cấp ở Việt Nam",
+      "text": "Về đội ngũ thanh niên, giáo trình xác định: là lực lượng xung kích, sáng tạo và nguồn nhân lực cho phát triển đất nước."
+    }
+  },
+  {
+    "id": "MLN131-C05-Q027",
+    "courseId": "mln131",
+    "chapter": "Cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 5,
+    "topic": "phụ nữ Việt Nam",
+    "difficulty": "Vận dụng",
+    "kind": "van_dung_tinh_huong",
+    "stem": "Một chương trình phát triển chỉ xem phụ nữ là người chăm sóc gia đình và không tạo cơ hội tham gia lao động, quản lý xã hội. Cần sửa nhận thức nào?",
+    "options": [
+      "Duy trì sự phân công truyền thống vì cơ hội xã hội không thuộc phạm vi bình đẳng giới",
+      "Xác định chăm sóc gia đình là vai trò chính, còn lao động và quản lý là vai trò bổ trợ",
+      "Có vai trò quan trọng trong lao động, gia đình, chính trị và phát triển xã hội",
+      "Xem phụ nữ là lực lượng xã hội quan trọng nhưng không thuộc lực lượng lao động sản xuất"
+    ],
+    "answer": 2,
+    "explanation": "Về phụ nữ Việt Nam, giáo trình xác định: có vai trò quan trọng trong lao động, gia đình, chính trị và phát triển xã hội. Các phương án khác làm sai lệch phạm vi, điều kiện hoặc bản chất của nội dung này.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 5 > B.3.1 > Cơ cấu xã hội – giai cấp ở Việt Nam",
+      "text": "Về phụ nữ Việt Nam, giáo trình xác định: có vai trò quan trọng trong lao động, gia đình, chính trị và phát triển xã hội."
+    }
+  },
+  {
+    "id": "MLN131-C05-Q028",
+    "courseId": "mln131",
+    "chapter": "Cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 5,
+    "topic": "chính sách với các tầng lớp",
+    "difficulty": "Vận dụng",
+    "kind": "van_dung_tinh_huong",
+    "stem": "Một chính sách áp dụng cùng một biện pháp cho công nhân, nông dân, trí thức và doanh nhân mà không xét vai trò, lợi ích riêng. Cách làm nào phù hợp hơn?",
+    "options": [
+      "Ưu tiên lâu dài một lực lượng để tạo động lực rồi mới xem xét lợi ích các lực lượng còn lại",
+      "Tiếp tục áp dụng một biện pháp chung vì các lực lượng đều hướng tới cùng mục tiêu phát triển",
+      "Cần phát huy vai trò từng lực lượng và xử lý hài hòa lợi ích trong khối đại đoàn kết",
+      "Yêu cầu các lực lượng gác lợi ích chính đáng riêng để tránh phát sinh khác biệt trong liên minh"
+    ],
+    "answer": 2,
+    "explanation": "Về chính sách với các tầng lớp, giáo trình xác định: cần phát huy vai trò từng lực lượng và xử lý hài hòa lợi ích trong khối đại đoàn kết. Các phương án khác làm sai lệch phạm vi, điều kiện hoặc bản chất của nội dung này.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 5 > B.3.1 > Cơ cấu xã hội – giai cấp ở Việt Nam",
+      "text": "Về chính sách với các tầng lớp, giáo trình xác định: cần phát huy vai trò từng lực lượng và xử lý hài hòa lợi ích trong khối đại đoàn kết."
+    }
+  },
+  {
+    "id": "MLN131-C05-Q029",
+    "courseId": "mln131",
+    "chapter": "Cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 5,
+    "topic": "nội dung kinh tế của liên minh",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Giáo trình nhấn mạnh điều gì khi bàn về nội dung kinh tế của liên minh?",
+    "options": [
+      "Phân phối thu nhập đồng đều giữa các chủ thể mà không gắn với tổ chức sản xuất",
+      "Phối hợp phát triển ngành, vùng, chuỗi giá trị và bảo đảm lợi ích kinh tế chính đáng",
+      "Phát triển từng ngành độc lập rồi dùng ngân sách bù đắp chênh lệch lợi ích giữa các lực lượng",
+      "Tập trung hiện đại hóa công nghiệp và để nông nghiệp vận hành ngoài quan hệ thị trường"
+    ],
+    "answer": 1,
+    "explanation": "Về nội dung kinh tế của liên minh, giáo trình xác định: phối hợp phát triển ngành, vùng, chuỗi giá trị và bảo đảm lợi ích kinh tế chính đáng. Các phương án khác làm sai lệch phạm vi, điều kiện hoặc bản chất của nội dung này.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 5 > B.3.2 > Nội dung và phương hướng xây dựng liên minh ở Việt Nam",
+      "text": "Về nội dung kinh tế của liên minh, giáo trình xác định: phối hợp phát triển ngành, vùng, chuỗi giá trị và bảo đảm lợi ích kinh tế chính đáng."
+    }
+  },
+  {
+    "id": "MLN131-C05-Q030",
+    "courseId": "mln131",
+    "chapter": "Cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 5,
+    "topic": "nội dung chính trị của liên minh",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Phát biểu nào diễn đạt chính xác nội dung chính trị của liên minh?",
+    "options": [
+      "Giải quyết khác biệt chính trị bằng biện pháp cưỡng chế để tạo ra sự thống nhất hình thức",
+      "Giới hạn liên minh ở hoạt động vận động bầu cử và phân chia vị trí trong bộ máy",
+      "Củng cố đồng thuận, quyền làm chủ và nền tảng xã hội của Nhà nước",
+      "Củng cố quyền lực nhà nước bằng cách thu hẹp vai trò tập hợp quần chúng của Mặt trận"
+    ],
+    "answer": 2,
+    "explanation": "Về nội dung chính trị của liên minh, giáo trình xác định: củng cố đồng thuận, quyền làm chủ và nền tảng xã hội của Nhà nước. Các phương án khác làm sai lệch phạm vi, điều kiện hoặc bản chất của nội dung này.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 5 > B.3.2 > Nội dung và phương hướng xây dựng liên minh ở Việt Nam",
+      "text": "Về nội dung chính trị của liên minh, giáo trình xác định: củng cố đồng thuận, quyền làm chủ và nền tảng xã hội của Nhà nước."
+    }
+  },
+  {
+    "id": "MLN131-C05-Q031",
+    "courseId": "mln131",
+    "chapter": "Cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 5,
+    "topic": "nội dung văn hóa – xã hội",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Kết luận nào đúng khi xem xét nội dung văn hóa – xã hội?",
+    "options": [
+      "Tập trung tổ chức hoạt động văn hóa cộng đồng mà không gắn với nâng cao dân trí",
+      "Nâng cao dân trí, đào tạo, an sinh và tiếp cận dịch vụ cho các lực lượng",
+      "Phát triển dịch vụ xã hội nhưng tách khỏi nhiệm vụ đào tạo và nâng cao chất lượng con người",
+      "Ưu tiên tăng trưởng kinh tế trước, còn an sinh và phúc lợi được xử lý ở giai đoạn sau"
+    ],
+    "answer": 1,
+    "explanation": "Về nội dung văn hóa – xã hội, giáo trình xác định: nâng cao dân trí, đào tạo, an sinh và tiếp cận dịch vụ cho các lực lượng. Các phương án khác làm sai lệch phạm vi, điều kiện hoặc bản chất của nội dung này.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 5 > B.3.2 > Nội dung và phương hướng xây dựng liên minh ở Việt Nam",
+      "text": "Về nội dung văn hóa – xã hội, giáo trình xác định: nâng cao dân trí, đào tạo, an sinh và tiếp cận dịch vụ cho các lực lượng."
+    }
+  },
+  {
+    "id": "MLN131-C05-Q032",
+    "courseId": "mln131",
+    "chapter": "Cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 5,
+    "topic": "kết hợp hài hòa lợi ích",
+    "difficulty": "Thông hiểu",
+    "kind": "trinh_tu_quan_he",
+    "stem": "Yếu tố nào gắn trực tiếp với kết hợp hài hòa lợi ích?",
+    "options": [
+      "Phân phối nguồn lực theo thỏa thuận nội bộ mà không công khai lợi ích của các chủ thể",
+      "Dùng quyết định hành chính để đồng nhất lợi ích riêng với lợi ích chung của liên minh",
+      "Ưu tiên chủ thể có đóng góp kinh tế lớn vì lợi ích của họ đại diện lợi ích chung",
+      "Phải nhận diện lợi ích riêng, lợi ích chung và có cơ chế phân phối công bằng"
+    ],
+    "answer": 3,
+    "explanation": "Về kết hợp hài hòa lợi ích, giáo trình xác định: phải nhận diện lợi ích riêng, lợi ích chung và có cơ chế phân phối công bằng. Các phương án khác làm sai lệch phạm vi, điều kiện hoặc bản chất của nội dung này.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 5 > B.3.2 > Nội dung và phương hướng xây dựng liên minh ở Việt Nam",
+      "text": "Về kết hợp hài hòa lợi ích, giáo trình xác định: phải nhận diện lợi ích riêng, lợi ích chung và có cơ chế phân phối công bằng."
+    }
+  },
+  {
+    "id": "MLN131-C05-Q033",
+    "courseId": "mln131",
+    "chapter": "Cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 5,
+    "topic": "phát huy vai trò Đảng và Nhà nước",
+    "difficulty": "Thông hiểu",
+    "kind": "thong_hieu_phan_biet",
+    "stem": "Theo giáo trình, nhận định nào đúng về phát huy vai trò Đảng và Nhà nước?",
+    "options": [
+      "Đảng định hướng, Nhà nước thể chế hóa và tổ chức chính sách liên minh",
+      "Đảng trực tiếp thực hiện hoạt động sản xuất và phân phối thay cho các chủ thể liên minh",
+      "Nhà nước giữ vai trò quan sát, còn quan hệ liên minh do các lực lượng tự thỏa thuận",
+      "Đảng định hướng chính trị, còn chính sách liên minh không cần được thể chế hóa bằng pháp luật"
+    ],
+    "answer": 0,
+    "explanation": "Về phát huy vai trò Đảng và Nhà nước, giáo trình xác định: đảng định hướng, Nhà nước thể chế hóa và tổ chức chính sách liên minh. Các phương án khác làm sai lệch phạm vi, điều kiện hoặc bản chất của nội dung này.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 5 > B.3.2 > Nội dung và phương hướng xây dựng liên minh ở Việt Nam",
+      "text": "Về phát huy vai trò Đảng và Nhà nước, giáo trình xác định: đảng định hướng, Nhà nước thể chế hóa và tổ chức chính sách liên minh."
+    }
+  },
+  {
+    "id": "MLN131-C05-Q034",
+    "courseId": "mln131",
+    "chapter": "Cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 5,
+    "topic": "vai trò Mặt trận và đoàn thể",
+    "difficulty": "Thông hiểu",
+    "kind": "trinh_tu_quan_he",
+    "stem": "Nội dung nào phản ánh đúng vai trò của Mặt trận Tổ quốc trong củng cố liên minh?",
+    "options": [
+      "Chủ yếu tập hợp quần chúng và giao việc phối hợp giữa các lực lượng cho cơ quan nhà nước",
+      "Đảm nhiệm chức năng quản lý nhà nước đối với các giai cấp và tầng lớp trong liên minh",
+      "Tập trung tổ chức phong trào thi đua, còn việc tăng cường liên minh do từng đoàn thể đảm nhiệm",
+      "Đổi mới hoạt động, phối hợp chặt với các tổ chức để tăng cường liên minh và đại đoàn kết"
+    ],
+    "answer": 3,
+    "explanation": "Giáo trình yêu cầu tiếp tục đổi mới, nâng cao chất lượng hoạt động của Mặt trận Tổ quốc và duy trì phối hợp chặt chẽ với các tổ chức đại diện để tăng cường liên minh, xây dựng khối đại đoàn kết toàn dân.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 5 > B.3.2 > Nội dung và phương hướng xây dựng liên minh ở Việt Nam",
+      "text": "Tiếp tục đổi mới, nâng cao chất lượng hoạt động của Mặt trận Tổ quốc và phối hợp chặt chẽ với các tổ chức để tăng cường liên minh, xây dựng khối đại đoàn kết toàn dân."
+    }
+  },
+  {
+    "id": "MLN131-C05-Q035",
+    "courseId": "mln131",
+    "chapter": "Cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 5,
+    "topic": "chuỗi nông sản công nghệ cao",
+    "difficulty": "Vận dụng",
+    "kind": "van_dung_tinh_huong",
+    "stem": "Một địa phương lập kế hoạch nông nghiệp công nghệ cao nhưng chưa xác định nhu cầu của nông dân, tiềm lực của trí thức và lợi ích của các bên. Cần điều chỉnh thế nào?",
+    "options": [
+      "Giao cơ sở nghiên cứu tự chọn công nghệ rồi yêu cầu nông dân điều chỉnh sản xuất theo kết quả",
+      "Trao doanh nghiệp quyền lập kế hoạch vì nắm thông tin thị trường tốt hơn",
+      "Dùng một mô hình đầu tư chung cho các địa bàn để rút ngắn thời gian xác định cơ cấu kinh tế",
+      "Xác định đúng tiềm lực, nhu cầu từng lực lượng và tổ chức hợp tác bảo đảm lợi ích các bên"
+    ],
+    "answer": 3,
+    "explanation": "Giáo trình yêu cầu xác định đúng tiềm lực và nhu cầu kinh tế của công nhân, nông dân, trí thức và xã hội, rồi tổ chức đầu tư, hợp tác trên tinh thần bảo đảm lợi ích các bên và tránh lãng phí.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 5 > B.3.2 > Nội dung và phương hướng xây dựng liên minh ở Việt Nam",
+      "text": "Cần xác định đúng tiềm lực, nhu cầu của các lực lượng và tổ chức hoạt động kinh tế theo tinh thần bảo đảm lợi ích các bên."
+    }
+  }
+]

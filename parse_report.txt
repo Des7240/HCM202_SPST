@@ -1,0 +1,38 @@
+Subject: mln111
+Status: ready
+Study ready: yes
+Questions: 380
+Errors: 0
+Warnings: 0
+Difficulty: Nhận biết=152, Thông hiểu=152, Vận dụng=76
+Answers: A=96, B=96, C=94, D=94
+
+Subject: mln112
+Status: ready
+Study ready: yes
+Questions: 504
+Errors: 0
+Warnings: 0
+Difficulty: Nhận biết=204, Thông hiểu=204, Vận dụng=96
+Answers: A=127, B=126, C=126, D=125
+
+Subject: mln131
+Status: comingSoon
+Questions: 0
+Errors: 0
+Warnings: 0
+
+Subject: hcm202
+Status: ready
+Study ready: yes
+Questions: 480
+Errors: 0
+Warnings: 0
+Difficulty: Nhận biết=192, Thông hiểu=192, Vận dụng=96
+Answers: A=120, B=120, C=120, D=120
+
+Subject: vnr201
+Status: comingSoon
+Questions: 0
+Errors: 0
+Warnings: 0

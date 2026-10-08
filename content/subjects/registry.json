@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "subjects": [
+    {
+      "id": "mln131",
+      "code": "MLN131",
+      "legacyAliases": [],
+      "status": "ready",
+      "metadataPath": "subjects/mln131/subject.json"
+    },
+    {
+      "id": "hcm202",
+      "code": "HCM202",
+      "legacyAliases": [],
+      "status": "ready",
+      "metadataPath": "subjects/hcm202/subject.json"
+    },
+    {
+      "id": "vnr202",
+      "code": "VNR202",
+      "legacyAliases": ["vnr201"],
+      "status": "ready",
+      "metadataPath": "subjects/vnr202/subject.json"
+    }
+  ]
+}

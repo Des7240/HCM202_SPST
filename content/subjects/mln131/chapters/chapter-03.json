@@ -1,0 +1,1037 @@
+[
+  {
+    "id": "MLN131-C03-Q001",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "chủ nghĩa xã hội theo nghĩa phong trào",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Theo giáo trình, nhận định nào đúng về chủ nghĩa xã hội theo nghĩa phong trào?",
+    "options": [
+      "Là trào lưu tư tưởng phản ánh lý tưởng giải phóng người lao động",
+      "Là khoa học về sứ mệnh lịch sử của giai cấp công nhân",
+      "Là giai đoạn đầu của hình thái kinh tế – xã hội cộng sản chủ nghĩa",
+      "Là phong trào thực tiễn đấu tranh của nhân dân lao động chống áp bức, bất công"
+    ],
+    "answer": 3,
+    "explanation": "Giáo trình xác định là phong trào thực tiễn đấu tranh của nhân dân lao động chống áp bức, bất công. Ba lựa chọn nhiễu là ba nghĩa khác của cùng thuật ngữ.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.1 > Chủ nghĩa xã hội",
+      "text": "Giáo trình nêu là phong trào thực tiễn đấu tranh của nhân dân lao động chống áp bức, bất công."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q002",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "chủ nghĩa xã hội theo nghĩa trào lưu tư tưởng",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Nội dung nào phản ánh đúng chủ nghĩa xã hội theo nghĩa trào lưu tư tưởng?",
+    "options": [
+      "Là trào lưu tư tưởng, lý luận phản ánh lý tưởng giải phóng nhân dân lao động",
+      "Là khoa học nghiên cứu sứ mệnh lịch sử của giai cấp công nhân",
+      "Là chế độ xã hội thuộc giai đoạn đầu của xã hội cộng sản chủ nghĩa",
+      "Là phong trào đấu tranh thực tiễn của nhân dân lao động chống giai cấp thống trị"
+    ],
+    "answer": 0,
+    "explanation": "Giáo trình xác định là trào lưu tư tưởng, lý luận phản ánh lý tưởng giải phóng nhân dân lao động. Cần phân biệt trào lưu tư tưởng với phong trào, khoa học và chế độ.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.1 > Chủ nghĩa xã hội",
+      "text": "Giáo trình nêu là trào lưu tư tưởng, lý luận phản ánh lý tưởng giải phóng nhân dân lao động."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q003",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "chủ nghĩa xã hội theo nghĩa khoa học",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Theo giáo trình, chủ nghĩa xã hội theo nghĩa một khoa học được hiểu thế nào?",
+    "options": [
+      "Là chế độ xã hội tốt đẹp ở giai đoạn đầu của xã hội cộng sản chủ nghĩa",
+      "Là trào lưu tư tưởng phản ánh lý tưởng giải phóng nhân dân lao động",
+      "Là phong trào thực tiễn chống áp bức, bóc lột và bất công",
+      "Là khoa học về sứ mệnh lịch sử của giai cấp công nhân"
+    ],
+    "answer": 3,
+    "explanation": "Giáo trình xác định là khoa học về sứ mệnh lịch sử của giai cấp công nhân. Giáo trình định nghĩa nghĩa khoa học bằng đối tượng sứ mệnh lịch sử của giai cấp công nhân.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.1 > Chủ nghĩa xã hội",
+      "text": "Giáo trình nêu là khoa học về sứ mệnh lịch sử của giai cấp công nhân."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q004",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "chủ nghĩa xã hội theo nghĩa chế độ",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Cách hiểu nào phù hợp về chủ nghĩa xã hội theo nghĩa chế độ?",
+    "options": [
+      "Là phong trào thực tiễn đấu tranh của nhân dân lao động chống áp bức",
+      "Là trào lưu tư tưởng, lý luận về lý tưởng giải phóng nhân dân lao động",
+      "Là chế độ xã hội tốt đẹp, giai đoạn đầu của hình thái cộng sản chủ nghĩa",
+      "Là khoa học nghiên cứu sứ mệnh lịch sử của giai cấp công nhân"
+    ],
+    "answer": 2,
+    "explanation": "Giáo trình xác định là chế độ xã hội tốt đẹp, giai đoạn đầu của hình thái cộng sản chủ nghĩa. Đây là nghĩa chế độ, khác ba nghĩa phong trào, tư tưởng và khoa học.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.1 > Chủ nghĩa xã hội",
+      "text": "Giáo trình nêu là chế độ xã hội tốt đẹp, giai đoạn đầu của hình thái cộng sản chủ nghĩa."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q005",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "tiền đề kinh tế của chủ nghĩa xã hội",
+    "difficulty": "Thông hiểu",
+    "kind": "thong_hieu_phan_biet",
+    "stem": "Giáo trình nhấn mạnh điều gì khi bàn về tiền đề kinh tế của chủ nghĩa xã hội?",
+    "options": [
+      "Lực lượng sản xuất xã hội hóa cao mâu thuẫn với chế độ chiếm hữu tư nhân tư bản",
+      "Lực lượng sản xuất xã hội hóa cao phù hợp bền vững với sở hữu tư nhân tư bản",
+      "Lực lượng sản xuất phát triển thấp mâu thuẫn với chế độ công hữu đã hoàn thiện",
+      "Quan hệ sản xuất tư bản phát triển chậm hơn nhưng vẫn thúc đẩy lực lượng sản xuất"
+    ],
+    "answer": 0,
+    "explanation": "Giáo trình xác định lực lượng sản xuất xã hội hóa cao mâu thuẫn với chế độ chiếm hữu tư nhân tư bản. Mấu chốt là mâu thuẫn giữa tính xã hội hóa của sản xuất và chiếm hữu tư nhân tư bản.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.1.2 > Điều kiện ra đời của chủ nghĩa xã hội",
+      "text": "Giáo trình nêu lực lượng sản xuất xã hội hóa cao mâu thuẫn với chế độ chiếm hữu tư nhân tư bản."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q006",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "tiền đề chính trị – xã hội của chủ nghĩa xã hội",
+    "difficulty": "Thông hiểu",
+    "kind": "trinh_tu_quan_he",
+    "stem": "Phát biểu nào diễn đạt chính xác tiền đề chính trị – xã hội của chủ nghĩa xã hội?",
+    "options": [
+      "Giai cấp công nhân tăng về số lượng nhưng chưa hình thành đội tiền phong chính trị",
+      "Đảng Cộng sản ra đời nhưng tách khỏi phong trào đấu tranh của giai cấp công nhân",
+      "Lực lượng sản xuất phát triển mà giai cấp công nhân chưa trưởng thành về chính trị",
+      "Giai cấp công nhân trưởng thành, có Đảng Cộng sản lãnh đạo đấu tranh chính trị"
+    ],
+    "answer": 3,
+    "explanation": "Giáo trình xác định giai cấp công nhân trưởng thành, có Đảng Cộng sản lãnh đạo đấu tranh chính trị. Sự trưởng thành được đánh dấu bằng sự ra đời của Đảng Cộng sản.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.1.2 > Điều kiện ra đời của chủ nghĩa xã hội",
+      "text": "Giáo trình nêu giai cấp công nhân trưởng thành, có Đảng Cộng sản lãnh đạo đấu tranh chính trị."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q007",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "vai trò của cách mạng vô sản",
+    "difficulty": "Thông hiểu",
+    "kind": "thong_hieu_phan_biet",
+    "stem": "Kết luận nào đúng khi xem xét vai trò của cách mạng vô sản?",
+    "options": [
+      "Cải biến quan hệ kinh tế trong khi vẫn duy trì quyền lực chính trị của giai cấp tư sản",
+      "Giành quyền lực nhà nước rồi dừng lại, chưa cải tạo xã hội cũ và xây dựng xã hội mới",
+      "Lật đổ chế độ tư bản, thiết lập nhà nước mới và tổ chức xây dựng xã hội mới",
+      "Tổ chức đấu tranh kinh tế tự phát, chưa phát triển thành cuộc đấu tranh chính trị"
+    ],
+    "answer": 2,
+    "explanation": "Giáo trình xác định lật đổ chế độ tư bản, thiết lập nhà nước mới và tổ chức xây dựng xã hội mới. Cách mạng vừa xác lập quyền lực mới vừa cải tạo xã hội cũ và xây dựng xã hội mới.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.1.2 > Điều kiện ra đời của chủ nghĩa xã hội",
+      "text": "Giáo trình nêu lật đổ chế độ tư bản, thiết lập nhà nước mới và tổ chức xây dựng xã hội mới."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q008",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "quan hệ tiền đề vật chất và chủ thể",
+    "difficulty": "Vận dụng",
+    "kind": "van_dung_tinh_huong",
+    "stem": "Một xã hội đã có tiền đề vật chất phát triển nhưng lực lượng cách mạng còn phân tán và thiếu tổ chức. Điều gì giải thích vì sao khả năng chuyển biến chưa trở thành hiện thực?",
+    "options": [
+      "Sự phát triển của lực lượng sản xuất đủ để trực tiếp xác lập quan hệ xã hội mới",
+      "Sự trưởng thành chính trị có thể phát huy mà chưa dựa trên tiền đề vật chất tương ứng",
+      "Tiền đề vật chất tạo khả năng, lực lượng cách mạng trưởng thành biến nó thành hiện thực",
+      "Tiền đề kinh tế và lực lượng chính trị phát triển song song nhưng ít tác động lẫn nhau"
+    ],
+    "answer": 2,
+    "explanation": "Giáo trình xác định tiền đề vật chất tạo khả năng, lực lượng cách mạng trưởng thành biến nó thành hiện thực. Tiền đề khách quan chưa tự chuyển thành chế độ mới nếu thiếu chủ thể có tổ chức.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.1.2 > Điều kiện ra đời của chủ nghĩa xã hội",
+      "text": "Giáo trình nêu tiền đề vật chất tạo khả năng, lực lượng cách mạng trưởng thành biến nó thành hiện thực."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q009",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "đánh giá điều kiện xây dựng xã hội mới",
+    "difficulty": "Vận dụng",
+    "kind": "van_dung_tinh_huong",
+    "stem": "Một kế hoạch xây dựng xã hội mới chỉ đầu tư máy móc mà không xây dựng lực lượng chính trị – xã hội có năng lực tổ chức. Cần bổ sung định hướng nào?",
+    "options": [
+      "Ưu tiên xây dựng tổ chức chính trị rồi lùi việc phát triển lực lượng sản xuất sang giai đoạn sau",
+      "Tập trung tăng năng suất trước, còn liên minh của người lao động hình thành theo thị trường",
+      "Phát triển đồng đều máy móc và sản lượng, chưa cần nâng cao giác ngộ chính trị của công nhân",
+      "Kết hợp phát triển lực lượng sản xuất với xây dựng giai cấp công nhân và tổ chức lãnh đạo"
+    ],
+    "answer": 3,
+    "explanation": "Giáo trình xác định kết hợp phát triển lực lượng sản xuất với xây dựng giai cấp công nhân và tổ chức lãnh đạo. Máy móc không thay cho sự trưởng thành chính trị của giai cấp công nhân và tổ chức lãnh đạo.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.1.2 > Điều kiện ra đời của chủ nghĩa xã hội",
+      "text": "Giáo trình nêu kết hợp phát triển lực lượng sản xuất với xây dựng giai cấp công nhân và tổ chức lãnh đạo."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q010",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "mục tiêu giải phóng",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Nội dung nào phản ánh đúng mục tiêu giải phóng?",
+    "options": [
+      "Giải phóng giai cấp, dân tộc, xã hội và con người, tạo điều kiện phát triển toàn diện",
+      "Giải phóng giai cấp và xã hội trước, còn giải phóng dân tộc thuộc giai đoạn phát triển cao",
+      "Giải phóng dân tộc và con người, còn quan hệ áp bức giai cấp được cải biến từng phần",
+      "Giải phóng người lao động về kinh tế, còn tự do cá nhân phụ thuộc vào tăng trưởng vật chất"
+    ],
+    "answer": 0,
+    "explanation": "Giáo trình xác định giải phóng giai cấp, dân tộc, xã hội và con người, tạo điều kiện phát triển toàn diện. Đặc trưng bao quát đồng thời bốn phương diện giải phóng.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.1.3 > Những đặc trưng cơ bản của chủ nghĩa xã hội",
+      "text": "Giáo trình nêu giải phóng giai cấp, dân tộc, xã hội và con người, tạo điều kiện phát triển toàn diện."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q011",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "cơ sở vật chất của chủ nghĩa xã hội",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Điểm cốt lõi của cơ sở vật chất của chủ nghĩa xã hội là gì?",
+    "options": [
+      "Nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và sở hữu tư nhân chủ yếu",
+      "Nền kinh tế dựa trên công hữu tư liệu sản xuất chủ yếu nhưng lực lượng sản xuất còn phân tán",
+      "Nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và công hữu tư liệu chủ yếu",
+      "Nền kinh tế có năng suất cao nhưng quan hệ sản xuất chưa thích ứng với lực lượng sản xuất"
+    ],
+    "answer": 2,
+    "explanation": "Giáo trình xác định nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và công hữu tư liệu chủ yếu. Công hữu được nói đến đối với tư liệu sản xuất chủ yếu, gắn với lực lượng sản xuất hiện đại.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.1.3 > Những đặc trưng cơ bản của chủ nghĩa xã hội",
+      "text": "Giáo trình nêu nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và công hữu tư liệu chủ yếu."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q012",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "chủ thể làm chủ xã hội",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Cách hiểu nào phù hợp về chủ thể làm chủ xã hội?",
+    "options": [
+      "Giai cấp công nhân trực tiếp quản lý các lĩnh vực, các tầng lớp khác tham gia gián tiếp",
+      "Nhân dân lao động là chủ thể xã hội, thực hiện quyền làm chủ ngày càng rộng rãi",
+      "Nhà nước là chủ thể quyền lực, còn nhân dân tham gia chủ yếu qua hoạt động sản xuất",
+      "Các tổ chức chính trị là chủ thể quản lý, nhân dân thực hiện các quyết định đã ban hành"
+    ],
+    "answer": 1,
+    "explanation": "Giáo trình xác định nhân dân lao động là chủ thể xã hội, thực hiện quyền làm chủ ngày càng rộng rãi. Nhân dân lao động vừa là người thụ hưởng vừa là chủ thể làm chủ.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.1.3 > Những đặc trưng cơ bản của chủ nghĩa xã hội",
+      "text": "Giáo trình nêu nhân dân lao động là chủ thể xã hội, thực hiện quyền làm chủ ngày càng rộng rãi."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q013",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "nhà nước kiểu mới",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Giáo trình nhấn mạnh điều gì khi bàn về nhà nước kiểu mới?",
+    "options": [
+      "Nhà nước mang bản chất nhân dân nói chung và trung lập trong quan hệ giữa các giai cấp",
+      "Nhà nước mang bản chất giai cấp công nhân nhưng đại biểu trước hết cho lợi ích riêng của công nhân",
+      "Nhà nước đại biểu quyền lực nhân dân lao động nhưng chưa mang bản chất giai cấp xác định",
+      "Nhà nước mang bản chất giai cấp công nhân, đại biểu lợi ích và quyền lực của nhân dân lao động"
+    ],
+    "answer": 3,
+    "explanation": "Giáo trình xác định nhà nước mang bản chất giai cấp công nhân, đại biểu lợi ích và quyền lực của nhân dân lao động. Bản chất giai cấp công nhân gắn với việc đại biểu lợi ích, quyền lực và ý chí nhân dân lao động.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.1.3 > Những đặc trưng cơ bản của chủ nghĩa xã hội",
+      "text": "Giáo trình nêu nhà nước mang bản chất giai cấp công nhân, đại biểu lợi ích và quyền lực của nhân dân lao động."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q014",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "nền văn hóa xã hội chủ nghĩa",
+    "difficulty": "Thông hiểu",
+    "kind": "trinh_tu_quan_he",
+    "stem": "Phát biểu nào diễn đạt chính xác nền văn hóa xã hội chủ nghĩa?",
+    "options": [
+      "Nền văn hóa mới hình thành bằng việc đoạn tuyệt với di sản của các xã hội trước",
+      "Nền văn hóa phát triển cao, kế thừa giá trị dân tộc và tinh hoa văn hóa nhân loại",
+      "Nền văn hóa ưu tiên giá trị truyền thống, tiếp nhận hạn chế thành tựu văn hóa bên ngoài",
+      "Nền văn hóa tiếp thu tinh hoa nhân loại nhưng xem nhẹ bản sắc và giá trị văn hóa dân tộc"
+    ],
+    "answer": 1,
+    "explanation": "Giáo trình xác định nền văn hóa phát triển cao, kế thừa giá trị dân tộc và tinh hoa văn hóa nhân loại. Kế thừa và tiếp thu là điều kiện xây dựng văn hóa mới, không phải đoạn tuyệt di sản.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.1.3 > Những đặc trưng cơ bản của chủ nghĩa xã hội",
+      "text": "Giáo trình nêu nền văn hóa phát triển cao, kế thừa giá trị dân tộc và tinh hoa văn hóa nhân loại."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q015",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "quan hệ dân tộc trong chủ nghĩa xã hội",
+    "difficulty": "Thông hiểu",
+    "kind": "thong_hieu_phan_biet",
+    "stem": "Kết luận nào đúng khi xem xét quan hệ dân tộc trong chủ nghĩa xã hội?",
+    "options": [
+      "Các dân tộc bình đẳng về pháp lý, còn hợp tác phụ thuộc tương quan phát triển kinh tế",
+      "Các dân tộc bình đẳng, đoàn kết và hợp tác trên các cơ sở chính trị, kinh tế, văn hóa",
+      "Các dân tộc đoàn kết trong một cộng đồng, còn quyền bình đẳng được thực hiện theo trình độ",
+      "Các dân tộc tự quyết bằng cách tách khỏi liên hiệp của người lao động các dân tộc khác"
+    ],
+    "answer": 1,
+    "explanation": "Giáo trình xác định các dân tộc bình đẳng, đoàn kết và hợp tác trên các cơ sở chính trị, kinh tế, văn hóa. Bình đẳng phải gắn với đoàn kết và hợp tác giữa các dân tộc.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.1.3 > Những đặc trưng cơ bản của chủ nghĩa xã hội",
+      "text": "Giáo trình nêu các dân tộc bình đẳng, đoàn kết và hợp tác trên các cơ sở chính trị, kinh tế, văn hóa."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q016",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "quan hệ quốc tế của chủ nghĩa xã hội",
+    "difficulty": "Thông hiểu",
+    "kind": "trinh_tu_quan_he",
+    "stem": "Yếu tố nào gắn trực tiếp với quan hệ quốc tế của chủ nghĩa xã hội?",
+    "options": [
+      "Bình đẳng, hợp tác và hữu nghị với nhân dân các nước vì hòa bình, tiến bộ xã hội",
+      "Hợp tác với nhân dân các nước trước hết để mở rộng ảnh hưởng của một quốc gia",
+      "Hữu nghị giữa các dân tộc trên cơ sở thu hẹp liên minh của người lao động quốc tế",
+      "Hợp tác quốc tế về kinh tế nhưng tách khỏi đấu tranh vì hòa bình và tiến bộ xã hội"
+    ],
+    "answer": 0,
+    "explanation": "Giáo trình xác định bình đẳng, hợp tác và hữu nghị với nhân dân các nước vì hòa bình, tiến bộ xã hội. Quan hệ đối ngoại hướng đến hòa bình, độc lập dân tộc, dân chủ và tiến bộ xã hội.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.1.3 > Những đặc trưng cơ bản của chủ nghĩa xã hội",
+      "text": "Giáo trình nêu bình đẳng, hợp tác và hữu nghị với nhân dân các nước vì hòa bình, tiến bộ xã hội."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q017",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "tính hệ thống của các đặc trưng",
+    "difficulty": "Vận dụng",
+    "kind": "van_dung_tinh_huong",
+    "stem": "Một nhóm đánh giá chủ nghĩa xã hội chỉ bằng hình thức sở hữu, bỏ qua quyền làm chủ, văn hóa và quan hệ xã hội. Cách nhìn nào cần được bổ sung?",
+    "options": [
+      "Đánh giá riêng nền kinh tế vì đây là cơ sở duy nhất biểu hiện bản chất xã hội mới",
+      "Xếp các đặc trưng theo thứ bậc để đặc trưng chính trị bù đắp hạn chế của văn hóa",
+      "Xem các đặc trưng kinh tế, chính trị, văn hóa và xã hội trong quan hệ hỗ trợ lẫn nhau",
+      "Đánh giá riêng quyền làm chủ vì đặc trưng này có thể tách khỏi cơ sở kinh tế – xã hội"
+    ],
+    "answer": 2,
+    "explanation": "Giáo trình xác định xem các đặc trưng kinh tế, chính trị, văn hóa và xã hội trong quan hệ hỗ trợ lẫn nhau. Một đặc trưng riêng lẻ không phản ánh đủ bản chất của xã hội mới.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.1.3 > Những đặc trưng cơ bản của chủ nghĩa xã hội",
+      "text": "Giáo trình nêu xem các đặc trưng kinh tế, chính trị, văn hóa và xã hội trong quan hệ hỗ trợ lẫn nhau."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q018",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "đánh giá chính sách chỉ tăng trưởng",
+    "difficulty": "Vận dụng",
+    "kind": "van_dung_tinh_huong",
+    "stem": "Một chính sách chỉ theo đuổi tăng trưởng kinh tế, không xét quyền làm chủ, công bằng, văn hóa và phát triển con người. Đánh giá nào phù hợp nhất?",
+    "options": [
+      "Bổ sung quyền làm chủ, công bằng, văn hóa và phát triển con người vào mục tiêu tăng trưởng",
+      "Duy trì mục tiêu tăng trưởng trước, còn các đặc trưng xã hội được thực hiện sau khi kinh tế phát triển",
+      "Dùng mức tăng sản lượng làm thước đo chung cho cả quyền làm chủ và sự phát triển con người",
+      "Xem tăng trưởng là cơ sở đủ để hình thành nền văn hóa mới và bảo đảm bình đẳng dân tộc"
+    ],
+    "answer": 0,
+    "explanation": "Giáo trình xác định bổ sung quyền làm chủ, công bằng, văn hóa và phát triển con người vào mục tiêu tăng trưởng. Tăng trưởng kinh tế chưa bao quát các đặc trưng chính trị, văn hóa và con người.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.1.3 > Những đặc trưng cơ bản của chủ nghĩa xã hội",
+      "text": "Giáo trình nêu bổ sung quyền làm chủ, công bằng, văn hóa và phát triển con người vào mục tiêu tăng trưởng."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q019",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "tính tất yếu của thời kỳ quá độ",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Vì sao từ chủ nghĩa tư bản lên chủ nghĩa xã hội tất yếu phải trải qua thời kỳ quá độ?",
+    "options": [
+      "Xã hội mới hình thành sau cải biến chính trị, còn kinh tế và văn hóa vận động theo cơ chế cũ",
+      "Cần một thời kỳ cải biến cách mạng sâu sắc từ xã hội cũ sang xã hội xã hội chủ nghĩa",
+      "Thời kỳ quá độ nhằm hoàn thiện xã hội tư bản trước khi thiết lập quyền lực của người lao động",
+      "Cải biến xã hội diễn ra chủ yếu trong kinh tế, còn nhà nước và đời sống tinh thần ít thay đổi"
+    ],
+    "answer": 1,
+    "explanation": "Giáo trình xác định cần một thời kỳ cải biến cách mạng sâu sắc từ xã hội cũ sang xã hội xã hội chủ nghĩa. Sự khác biệt về chất đòi hỏi cải biến trên nhiều lĩnh vực, không dừng ở thay đổi chính trị.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.2.1 > Tính tất yếu khách quan của thời kỳ quá độ",
+      "text": "Giáo trình nêu cần một thời kỳ cải biến cách mạng sâu sắc từ xã hội cũ sang xã hội xã hội chủ nghĩa."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q020",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "quá độ trực tiếp",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Trường hợp nào thuộc loại quá độ trực tiếp lên chủ nghĩa cộng sản?",
+    "options": [
+      "Quá độ từ xã hội tiền tư bản lên chủ nghĩa cộng sản qua chế độ tư bản phát triển",
+      "Quá độ từ chủ nghĩa tư bản phát triển lên chủ nghĩa cộng sản",
+      "Quá độ từ nước tư bản trung bình trở lại hình thức sản xuất tiền tư bản",
+      "Quá độ từ chủ nghĩa tư bản sang chế độ hỗn hợp không hướng tới chủ nghĩa cộng sản"
+    ],
+    "answer": 1,
+    "explanation": "Giáo trình xác định quá độ từ chủ nghĩa tư bản phát triển lên chủ nghĩa cộng sản. Tiêu chí phân loại là nước xuất phát đã trải qua chủ nghĩa tư bản phát triển.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.2.1 > Tính tất yếu khách quan của thời kỳ quá độ",
+      "text": "Giáo trình nêu quá độ từ chủ nghĩa tư bản phát triển lên chủ nghĩa cộng sản."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q021",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "quá độ gián tiếp",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Đối với nước chưa trải qua chủ nghĩa tư bản phát triển, giáo trình xác định con đường quá độ nào?",
+    "options": [
+      "Quá độ từ chủ nghĩa tư bản phát triển lên chủ nghĩa cộng sản qua cải biến chính trị",
+      "Quá độ từ xã hội tiền tư bản sang chủ nghĩa tư bản rồi dừng ở nền kinh tế hỗn hợp",
+      "Quá độ ở nước chưa trải qua chủ nghĩa tư bản phát triển, qua những giai đoạn nhất định",
+      "Quá độ ở nước tư bản phát triển bằng cách rút ngắn các nhiệm vụ tổ chức kinh tế – xã hội"
+    ],
+    "answer": 2,
+    "explanation": "Giáo trình xác định quá độ ở nước chưa trải qua chủ nghĩa tư bản phát triển, qua những giai đoạn nhất định. Loại gián tiếp áp dụng với nước chưa trải qua chủ nghĩa tư bản phát triển.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.2.1 > Tính tất yếu khách quan của thời kỳ quá độ",
+      "text": "Giáo trình nêu quá độ ở nước chưa trải qua chủ nghĩa tư bản phát triển, qua những giai đoạn nhất định."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q022",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "đặc điểm kinh tế thời kỳ quá độ",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Phát biểu nào diễn đạt chính xác đặc điểm kinh tế thời kỳ quá độ?",
+    "options": [
+      "Nền kinh tế gồm nhiều thành phần nhưng không có thành phần nào đối lập về lợi ích",
+      "Nền kinh tế chuyển tuần tự từ một thành phần cũ sang một thành phần mới thuần nhất",
+      "Nền kinh tế nhiều thành phần, gồm những bộ phận của chủ nghĩa tư bản và chủ nghĩa xã hội",
+      "Nền kinh tế duy trì các thành phần sản xuất nhỏ nhưng chưa xuất hiện thành phần xã hội chủ nghĩa"
+    ],
+    "answer": 2,
+    "explanation": "Giáo trình xác định nền kinh tế nhiều thành phần, gồm những bộ phận của chủ nghĩa tư bản và chủ nghĩa xã hội. Tính quá độ biểu hiện ở sự đan xen các bộ phận kinh tế khác nhau.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.2.2 > Đặc điểm thời kỳ quá độ lên chủ nghĩa xã hội",
+      "text": "Giáo trình nêu nền kinh tế nhiều thành phần, gồm những bộ phận của chủ nghĩa tư bản và chủ nghĩa xã hội."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q023",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "đặc điểm chính trị thời kỳ quá độ",
+    "difficulty": "Thông hiểu",
+    "kind": "thong_hieu_phan_biet",
+    "stem": "Kết luận nào đúng khi xem xét đặc điểm chính trị thời kỳ quá độ?",
+    "options": [
+      "Giai cấp công nhân nắm quyền, thực hiện dân chủ, tổ chức xây dựng và bảo vệ chế độ mới",
+      "Giai cấp công nhân chia sẻ quyền lực chính trị với giai cấp tư sản trong suốt thời kỳ quá độ",
+      "Nhà nước tập trung trấn áp lực lượng cũ, còn nhiệm vụ tổ chức xây dựng thuộc các tổ chức kinh tế",
+      "Đấu tranh giai cấp tiếp diễn theo hình thức cũ vì địa vị chính trị của các giai cấp chưa thay đổi"
+    ],
+    "answer": 0,
+    "explanation": "Giáo trình xác định giai cấp công nhân nắm quyền, thực hiện dân chủ, tổ chức xây dựng và bảo vệ chế độ mới. Quyền lực mới đồng thời thực hiện dân chủ, tổ chức xây dựng và bảo vệ chế độ.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.2.2 > Đặc điểm thời kỳ quá độ lên chủ nghĩa xã hội",
+      "text": "Giáo trình nêu giai cấp công nhân nắm quyền, thực hiện dân chủ, tổ chức xây dựng và bảo vệ chế độ mới."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q024",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "đặc điểm tư tưởng – văn hóa thời kỳ quá độ",
+    "difficulty": "Thông hiểu",
+    "kind": "trinh_tu_quan_he",
+    "stem": "Yếu tố nào gắn trực tiếp với đặc điểm tư tưởng – văn hóa thời kỳ quá độ?",
+    "options": [
+      "Tư tưởng vô sản giữ vị trí chủ đạo nên các tư tưởng khác mất cơ sở tồn tại ngay",
+      "Nền văn hóa mới tiếp thu giá trị dân tộc nhưng hạn chế tiếp nhận tinh hoa văn hóa nhân loại",
+      "Tư tưởng tư sản và vô sản cùng tồn tại mà chưa diễn ra đấu tranh trên lĩnh vực văn hóa",
+      "Nhiều tư tưởng cùng tồn tại; giai cấp công nhân từng bước xây dựng văn hóa xã hội chủ nghĩa"
+    ],
+    "answer": 3,
+    "explanation": "Giáo trình xác định nhiều tư tưởng cùng tồn tại; giai cấp công nhân từng bước xây dựng văn hóa xã hội chủ nghĩa. Tư tưởng cũ và mới còn cùng tồn tại trong quá trình xây dựng văn hóa mới.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.2.2 > Đặc điểm thời kỳ quá độ lên chủ nghĩa xã hội",
+      "text": "Giáo trình nêu nhiều tư tưởng cùng tồn tại; giai cấp công nhân từng bước xây dựng văn hóa xã hội chủ nghĩa."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q025",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "đặc điểm xã hội thời kỳ quá độ",
+    "difficulty": "Thông hiểu",
+    "kind": "thong_hieu_phan_biet",
+    "stem": "Theo giáo trình, nhận định nào đúng về đặc điểm xã hội thời kỳ quá độ?",
+    "options": [
+      "Các giai cấp và tầng lớp còn khác biệt nhưng quan hệ giữa họ thiên về hợp tác ổn định",
+      "Kinh tế nhiều thành phần làm cơ cấu xã hội thu hẹp dần còn hai giai cấp cơ bản",
+      "Khác biệt thành thị – nông thôn giảm trước khi khác biệt lao động trí óc – chân tay xuất hiện",
+      "Nhiều giai cấp, tầng lớp còn khác biệt, vừa hợp tác vừa đấu tranh trong thời kỳ quá độ"
+    ],
+    "answer": 3,
+    "explanation": "Giáo trình xác định nhiều giai cấp, tầng lớp còn khác biệt, vừa hợp tác vừa đấu tranh trong thời kỳ quá độ. Kinh tế nhiều thành phần quy định sự tồn tại của nhiều giai cấp và tầng lớp.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.2.2 > Đặc điểm thời kỳ quá độ lên chủ nghĩa xã hội",
+      "text": "Giáo trình nêu nhiều giai cấp, tầng lớp còn khác biệt, vừa hợp tác vừa đấu tranh trong thời kỳ quá độ."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q026",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "mâu thuẫn của thời kỳ quá độ",
+    "difficulty": "Thông hiểu",
+    "kind": "trinh_tu_quan_he",
+    "stem": "Nội dung nào phản ánh đúng mâu thuẫn của thời kỳ quá độ?",
+    "options": [
+      "Tàn dư xã hội cũ tồn tại ở văn hóa, còn kinh tế đã mang đầy đủ tính chất xã hội chủ nghĩa",
+      "Yếu tố xã hội chủ nghĩa phát sinh từ xã hội cũ nên ít phải trải qua đấu tranh và cải biến",
+      "Tàn dư của xã hội cũ đan xen, đấu tranh với những yếu tố xã hội chủ nghĩa mới hình thành",
+      "Yếu tố cũ và mới phân tách thành từng lĩnh vực nên quá trình cải biến diễn ra tuần tự"
+    ],
+    "answer": 2,
+    "explanation": "Giáo trình xác định tàn dư của xã hội cũ đan xen, đấu tranh với những yếu tố xã hội chủ nghĩa mới hình thành. Xã hội quá độ chưa phát triển trên cơ sở riêng nên còn dấu vết cũ đan xen yếu tố mới.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.2.2 > Đặc điểm thời kỳ quá độ lên chủ nghĩa xã hội",
+      "text": "Giáo trình nêu tàn dư của xã hội cũ đan xen, đấu tranh với những yếu tố xã hội chủ nghĩa mới hình thành."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q027",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "xử lý thành phần kinh tế trong quá độ",
+    "difficulty": "Vận dụng",
+    "kind": "van_dung_tinh_huong",
+    "stem": "Trong thời kỳ quá độ, một cơ quan muốn xóa ngay mọi thành phần kinh tế chưa mang tính xã hội chủ nghĩa. Cách xử lý nào phù hợp với đặc điểm đan xen của thời kỳ này?",
+    "options": [
+      "Quản lý và định hướng các thành phần kinh tế trong quá trình cải biến từng bước",
+      "Thu hẹp thành phần sản xuất nhỏ trước khi phát triển lực lượng sản xuất và năng suất lao động",
+      "Để các thành phần kinh tế tự điều chỉnh, nhà nước tập trung vào lĩnh vực chính trị – xã hội",
+      "Chuyển đồng loạt các hình thức sở hữu sang công hữu dù điều kiện vật chất chưa đáp ứng"
+    ],
+    "answer": 0,
+    "explanation": "Giáo trình xác định quản lý và định hướng các thành phần kinh tế trong quá trình cải biến từng bước. Giáo trình bác bỏ cách cải tạo chủ quan khi điều kiện vật chất chưa chín muồi.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.2.2 > Đặc điểm thời kỳ quá độ lên chủ nghĩa xã hội",
+      "text": "Giáo trình nêu quản lý và định hướng các thành phần kinh tế trong quá trình cải biến từng bước."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q028",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "đặc điểm xuất phát của Việt Nam",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Cách hiểu nào phù hợp về đặc điểm xuất phát của Việt Nam?",
+    "options": [
+      "Xuất phát từ xã hội tư bản phát triển, có lực lượng sản xuất hiện đại nhưng chịu hậu quả chiến tranh",
+      "Xuất phát từ xã hội thuộc địa, nửa phong kiến, lực lượng sản xuất thấp và hậu quả chiến tranh nặng nề",
+      "Xuất phát từ xã hội nông nghiệp độc lập, ít tàn dư thực dân và có nền công nghiệp tương đối phát triển",
+      "Xuất phát từ nền kinh tế thuộc địa đã công nghiệp hóa, thuận lợi về cơ sở vật chất nhưng khó khăn về chính trị"
+    ],
+    "answer": 1,
+    "explanation": "Giáo trình xác định xuất phát từ xã hội thuộc địa, nửa phong kiến, lực lượng sản xuất thấp và hậu quả chiến tranh nặng nề. Ba dữ kiện phải đi cùng nhau khi xác định điểm xuất phát của Việt Nam.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.3.1 > Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa",
+      "text": "Giáo trình nêu xuất phát từ xã hội thuộc địa, nửa phong kiến, lực lượng sản xuất thấp và hậu quả chiến tranh nặng nề."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q029",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "bỏ qua chế độ tư bản chủ nghĩa",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Giáo trình nhấn mạnh điều gì khi bàn về bỏ qua chế độ tư bản chủ nghĩa?",
+    "options": [
+      "Bỏ qua giai đoạn phát triển lực lượng sản xuất do chủ nghĩa tư bản tạo ra",
+      "Bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản",
+      "Bỏ qua sự tồn tại của sở hữu tư nhân và các hình thức phân phối trong thời kỳ quá độ",
+      "Bỏ qua các hình thức tổ chức kinh tế trung gian để sớm xác lập quan hệ sản xuất mới"
+    ],
+    "answer": 1,
+    "explanation": "Giáo trình xác định bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản. “Bỏ qua” nói về vị trí thống trị, không nói xóa sạch thành tựu hay hình thức quá độ.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.3.1 > Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa",
+      "text": "Giáo trình nêu bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q030",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "kế thừa thành tựu tư bản chủ nghĩa",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Phát biểu nào diễn đạt chính xác kế thừa thành tựu tư bản chủ nghĩa?",
+    "options": [
+      "Tiếp thu khoa học và công nghệ, đồng thời giữ nguyên phương thức quản lý tư bản chủ nghĩa",
+      "Tiếp thu kinh nghiệm quản lý trước, còn thành tựu khoa học – công nghệ phát triển từ nội lực",
+      "Tiếp thu mô hình tổ chức kinh tế cùng vị trí thống trị của quan hệ sản xuất tư bản chủ nghĩa",
+      "Tiếp thu thành tựu khoa học, công nghệ và quản lý để phát triển lực lượng sản xuất"
+    ],
+    "answer": 3,
+    "explanation": "Giáo trình xác định tiếp thu thành tựu khoa học, công nghệ và quản lý để phát triển lực lượng sản xuất. Sự kế thừa nhằm xây dựng kinh tế hiện đại và phát triển nhanh lực lượng sản xuất.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.3.1 > Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa",
+      "text": "Giáo trình nêu tiếp thu thành tựu khoa học, công nghệ và quản lý để phát triển lực lượng sản xuất."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q031",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "tính lâu dài và phức tạp",
+    "difficulty": "Thông hiểu",
+    "kind": "thong_hieu_phan_biet",
+    "stem": "Kết luận nào đúng khi xem xét tính lâu dài và phức tạp?",
+    "options": [
+      "Là sự nghiệp khó khăn, phức tạp, lâu dài với nhiều chặng đường và hình thức quá độ",
+      "Là quá trình lâu dài về kinh tế nhưng có thể hoàn thành sớm biến đổi chính trị và văn hóa",
+      "Là sự nghiệp phức tạp vì phải duy trì vị trí thống trị của quan hệ sản xuất tư bản chủ nghĩa",
+      "Là con đường gồm nhiều chặng nhưng mỗi chặng sử dụng một hình thức kinh tế – xã hội thuần nhất"
+    ],
+    "answer": 0,
+    "explanation": "Giáo trình xác định là sự nghiệp khó khăn, phức tạp, lâu dài với nhiều chặng đường và hình thức quá độ. Biến đổi về chất trên các lĩnh vực cần nhiều chặng đường và hình thức quá độ.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.3.1 > Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa",
+      "text": "Giáo trình nêu là sự nghiệp khó khăn, phức tạp, lâu dài với nhiều chặng đường và hình thức quá độ."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q032",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "vai trò lãnh đạo",
+    "difficulty": "Thông hiểu",
+    "kind": "trinh_tu_quan_he",
+    "stem": "Yếu tố nào gắn trực tiếp với vai trò lãnh đạo?",
+    "options": [
+      "Sự lãnh đạo chính trị xuất hiện sau khi các giai đoạn quá độ đã định hình bằng phát triển kinh tế",
+      "Đảng Cộng sản lãnh đạo quá trình tiến lên chủ nghĩa xã hội và định hướng xây dựng xã hội mới",
+      "Vai trò lãnh đạo tập trung vào tổ chức nhà nước, còn phát triển kinh tế vận động ngoài định hướng",
+      "Đảng lãnh đạo giai cấp công nhân, còn liên minh với các tầng lớp lao động hình thành tự phát"
+    ],
+    "answer": 1,
+    "explanation": "Giáo trình xác định đảng Cộng sản lãnh đạo quá trình tiến lên chủ nghĩa xã hội và định hướng xây dựng xã hội mới. Lãnh đạo chính trị bảo đảm quá trình phát triển đi theo mục tiêu đã lựa chọn.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.3.1 > Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa",
+      "text": "Giáo trình nêu đảng Cộng sản lãnh đạo quá trình tiến lên chủ nghĩa xã hội và định hướng xây dựng xã hội mới."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q033",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "kinh tế thị trường định hướng xã hội chủ nghĩa",
+    "difficulty": "Thông hiểu",
+    "kind": "thong_hieu_phan_biet",
+    "stem": "Phương hướng nào về tổ chức nền kinh tế được Cương lĩnh năm 2011 xác định?",
+    "options": [
+      "Xây dựng kinh tế kế hoạch hóa tập trung là phương hướng bao trùm các hình thức sở hữu",
+      "Phát triển kinh tế hàng hóa không gắn với mục tiêu và đặc trưng của chủ nghĩa xã hội",
+      "Dùng cơ chế thị trường trong một giai đoạn rồi chuyển sang mô hình phi thị trường",
+      "Phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa là một phương hướng cơ bản"
+    ],
+    "answer": 3,
+    "explanation": "Giáo trình xác định phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa là một phương hướng cơ bản. Đây là một trong tám phương hướng của Cương lĩnh bổ sung, phát triển năm 2011.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.3.2.2 > Phương hướng xây dựng chủ nghĩa xã hội ở Việt Nam",
+      "text": "Giáo trình nêu phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa là một phương hướng cơ bản."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q034",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "độc lập dân tộc gắn với chủ nghĩa xã hội",
+    "difficulty": "Thông hiểu",
+    "kind": "trinh_tu_quan_he",
+    "stem": "Nội dung nào phản ánh đúng độc lập dân tộc gắn với chủ nghĩa xã hội?",
+    "options": [
+      "Ưu tiên độc lập dân tộc, còn mục tiêu xã hội chủ nghĩa được xác định sau thời kỳ quá độ",
+      "Kiên định mục tiêu độc lập dân tộc và chủ nghĩa xã hội trong quá trình đổi mới",
+      "Gắn độc lập dân tộc với phát triển kinh tế, còn giải phóng xã hội thuộc mục tiêu dài hạn",
+      "Xem hội nhập quốc tế là cơ sở điều chỉnh mục tiêu độc lập dân tộc và chủ nghĩa xã hội"
+    ],
+    "answer": 1,
+    "explanation": "Giáo trình xác định kiên định mục tiêu độc lập dân tộc và chủ nghĩa xã hội trong quá trình đổi mới. Giáo trình đặt hai mục tiêu trong một định hướng xuyên suốt quá trình đổi mới.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.3.2.2 > Phương hướng xây dựng chủ nghĩa xã hội ở Việt Nam",
+      "text": "Giáo trình nêu kiên định mục tiêu độc lập dân tộc và chủ nghĩa xã hội trong quá trình đổi mới."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q035",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "vận dụng khái niệm bỏ qua",
+    "difficulty": "Vận dụng",
+    "kind": "van_dung_tinh_huong",
+    "stem": "Một cán bộ hiểu 'bỏ qua chế độ tư bản chủ nghĩa' là không được sử dụng thị trường, công nghệ hay phương pháp quản lý do chủ nghĩa tư bản tạo ra. Cần sửa nhận thức thế nào?",
+    "options": [
+      "Ngừng sử dụng cơ chế thị trường vì đây là quan hệ chỉ phù hợp với chế độ tư bản",
+      "Hiểu là không xác lập sự thống trị tư bản nhưng vẫn kế thừa thành tựu khoa học, công nghệ, quản lý",
+      "Tiếp nhận công nghệ hiện đại nhưng tránh vận dụng kinh nghiệm tổ chức và quản lý từ bên ngoài",
+      "Sử dụng thành tựu quản lý tư bản đồng thời xác lập vị trí thống trị của quan hệ sản xuất tư bản"
+    ],
+    "answer": 1,
+    "explanation": "Giáo trình xác định hiểu là không xác lập sự thống trị tư bản nhưng vẫn kế thừa thành tựu khoa học, công nghệ, quản lý. Kế thừa thành tựu khác với xác lập vị trí thống trị của quan hệ sản xuất tư bản.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.3.1 > Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa",
+      "text": "Giáo trình nêu hiểu là không xác lập sự thống trị tư bản nhưng vẫn kế thừa thành tựu khoa học, công nghệ, quản lý."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q036",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "lựa chọn công nghệ nước ngoài",
+    "difficulty": "Vận dụng",
+    "kind": "van_dung_tinh_huong",
+    "stem": "Một dự án muốn nhập công nghệ và mô hình quản trị nước ngoài nguyên vẹn, không xét năng lực tự chủ và mục tiêu phát triển trong nước. Phương án nào phù hợp hơn?",
+    "options": [
+      "Nhập đồng bộ công nghệ, quản lý và quan hệ sản xuất nơi xuất khẩu để bảo đảm tính tương thích",
+      "Ưu tiên tự phát triển công nghệ, còn kinh nghiệm quản lý từ bên ngoài ít phù hợp với thời kỳ quá độ",
+      "Tiếp thu có chọn lọc khoa học, công nghệ và quản lý để xây dựng kinh tế hiện đại",
+      "Tiếp thu phương pháp quản lý trước, còn đổi mới công nghệ thực hiện khi quan hệ sản xuất hoàn thiện"
+    ],
+    "answer": 2,
+    "explanation": "Giáo trình xác định tiếp thu có chọn lọc khoa học, công nghệ và quản lý để xây dựng kinh tế hiện đại. Tiếp thu phải phục vụ phát triển lực lượng sản xuất và xây dựng nền kinh tế hiện đại.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.3.1 > Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa",
+      "text": "Giáo trình nêu tiếp thu có chọn lọc khoa học, công nghệ và quản lý để xây dựng kinh tế hiện đại."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q037",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "mục tiêu dân giàu, nước mạnh",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Giáo trình nhấn mạnh điều gì khi bàn về mục tiêu dân giàu, nước mạnh?",
+    "options": [
+      "Dân giàu, nước mạnh, dân chủ, công bằng, văn minh",
+      "Dân giàu, nước mạnh, kỷ cương, bình đẳng, hiện đại",
+      "Dân giàu, quốc phòng mạnh, quản lý hiệu quả, văn hóa phát triển",
+      "Kinh tế giàu mạnh, xã hội ổn định, đời sống tiến bộ, hội nhập sâu rộng"
+    ],
+    "answer": 0,
+    "explanation": "Giáo trình xác định dân giàu, nước mạnh, dân chủ, công bằng, văn minh. Năm thành tố tạo thành đầy đủ đặc trưng mục tiêu.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.3.2.1 > Những đặc trưng bản chất của chủ nghĩa xã hội Việt Nam",
+      "text": "Giáo trình nêu dân giàu, nước mạnh, dân chủ, công bằng, văn minh."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q038",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "nhân dân làm chủ",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Đặc trưng nào xác định chủ thể làm chủ xã hội ở Việt Nam?",
+    "options": [
+      "Nhân dân làm chủ xã hội mà mình đang xây dựng",
+      "Giai cấp công nhân làm chủ thông qua đội tiền phong và bộ máy nhà nước",
+      "Nhân dân lao động làm chủ trước hết trong hoạt động sản xuất và phân phối",
+      "Cộng đồng dân tộc làm chủ thông qua các tổ chức chính trị – xã hội"
+    ],
+    "answer": 0,
+    "explanation": "Cương lĩnh xác định xã hội xã hội chủ nghĩa Việt Nam là xã hội do nhân dân làm chủ. Phương án quy quyền làm chủ riêng cho một giai cấp, một cộng đồng hay một lĩnh vực đã thu hẹp chủ thể mà giáo trình nêu.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.3.2.1 > Những đặc trưng bản chất của chủ nghĩa xã hội Việt Nam",
+      "text": "Một đặc trưng của xã hội xã hội chủ nghĩa Việt Nam là do nhân dân làm chủ."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q039",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "nền kinh tế Việt Nam xã hội chủ nghĩa",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Kết luận nào đúng khi xem xét nền kinh tế Việt Nam xã hội chủ nghĩa?",
+    "options": [
+      "Có lực lượng sản xuất hiện đại và quan hệ sản xuất đồng nhất về hình thức sở hữu",
+      "Có quan hệ sản xuất tiến bộ đi trước trình độ hiện có của lực lượng sản xuất",
+      "Có lực lượng sản xuất hiện đại và quan hệ sản xuất tiến bộ, phù hợp",
+      "Có nền kinh tế phát triển cao dựa chủ yếu trên chế độ công hữu tư liệu sản xuất"
+    ],
+    "answer": 2,
+    "explanation": "Giáo trình xác định có lực lượng sản xuất hiện đại và quan hệ sản xuất tiến bộ, phù hợp. Quan hệ sản xuất phải tiến bộ đồng thời phù hợp trình độ lực lượng sản xuất.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.3.2.1 > Những đặc trưng bản chất của chủ nghĩa xã hội Việt Nam",
+      "text": "Giáo trình nêu có lực lượng sản xuất hiện đại và quan hệ sản xuất tiến bộ, phù hợp."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q040",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "nền văn hóa Việt Nam",
+    "difficulty": "Thông hiểu",
+    "kind": "trinh_tu_quan_he",
+    "stem": "Đặc trưng văn hóa của chủ nghĩa xã hội Việt Nam được diễn đạt thế nào?",
+    "options": [
+      "Có nền văn hóa hiện đại, tiếp nhận rộng rãi các giá trị phổ biến của nhân loại",
+      "Có nền văn hóa dân tộc phát triển, giữ nguyên các giá trị truyền thống qua các thời kỳ",
+      "Có nền văn hóa tiên tiến, đậm đà bản sắc dân tộc",
+      "Có nền văn hóa xã hội chủ nghĩa thống nhất về hình thức biểu đạt và hệ giá trị"
+    ],
+    "answer": 2,
+    "explanation": "Giáo trình xác định có nền văn hóa tiên tiến, đậm đà bản sắc dân tộc. Đặc trưng văn hóa gồm hai vế tiên tiến và đậm đà bản sắc dân tộc.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.3.2.1 > Những đặc trưng bản chất của chủ nghĩa xã hội Việt Nam",
+      "text": "Giáo trình nêu có nền văn hóa tiên tiến, đậm đà bản sắc dân tộc."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q041",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "con người trong xã hội Việt Nam",
+    "difficulty": "Thông hiểu",
+    "kind": "thong_hieu_phan_biet",
+    "stem": "Theo giáo trình, nhận định nào đúng về con người trong xã hội Việt Nam?",
+    "options": [
+      "Con người có đời sống vật chất đầy đủ nhưng quyền tự do phụ thuộc trình độ phát triển kinh tế",
+      "Con người có điều kiện phát triển năng lực lao động, còn nhu cầu tinh thần do cá nhân tự bảo đảm",
+      "Con người có cuộc sống ấm no, tự do, hạnh phúc và điều kiện phát triển toàn diện",
+      "Con người được bảo đảm phúc lợi cơ bản và tham gia quản lý thông qua các tổ chức đại diện"
+    ],
+    "answer": 2,
+    "explanation": "Giáo trình xác định con người có cuộc sống ấm no, tự do, hạnh phúc và điều kiện phát triển toàn diện. Mục tiêu bao gồm cả đời sống, tự do, hạnh phúc và phát triển con người.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.3.2.1 > Những đặc trưng bản chất của chủ nghĩa xã hội Việt Nam",
+      "text": "Giáo trình nêu con người có cuộc sống ấm no, tự do, hạnh phúc và điều kiện phát triển toàn diện."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q042",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "các dân tộc trong cộng đồng Việt Nam",
+    "difficulty": "Thông hiểu",
+    "kind": "trinh_tu_quan_he",
+    "stem": "Nội dung nào phản ánh đúng các dân tộc trong cộng đồng Việt Nam?",
+    "options": [
+      "Các dân tộc bình đẳng về quyền, cùng phát triển nhưng duy trì khoảng cách về điều kiện kinh tế",
+      "Các dân tộc đoàn kết trong cộng đồng, còn quan hệ hỗ trợ được thực hiện theo từng giai đoạn",
+      "Các dân tộc tôn trọng bản sắc riêng và hợp tác trên cơ sở phân công theo trình độ phát triển",
+      "Các dân tộc bình đẳng, đoàn kết, tôn trọng và giúp nhau cùng phát triển"
+    ],
+    "answer": 3,
+    "explanation": "Giáo trình xác định các dân tộc bình đẳng, đoàn kết, tôn trọng và giúp nhau cùng phát triển. Bốn yếu tố bình đẳng, đoàn kết, tôn trọng, giúp nhau tạo thành nội dung đầy đủ.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.3.2.1 > Những đặc trưng bản chất của chủ nghĩa xã hội Việt Nam",
+      "text": "Giáo trình nêu các dân tộc bình đẳng, đoàn kết, tôn trọng và giúp nhau cùng phát triển."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q043",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "Nhà nước pháp quyền xã hội chủ nghĩa",
+    "difficulty": "Thông hiểu",
+    "kind": "thong_hieu_phan_biet",
+    "stem": "Điểm cốt lõi của Nhà nước pháp quyền xã hội chủ nghĩa là gì?",
+    "options": [
+      "Nhà nước của nhân dân, do nhân dân, vì nhân dân và độc lập với sự lãnh đạo chính trị",
+      "Nhà nước của giai cấp công nhân, do Đảng tổ chức và hoạt động vì nhân dân lao động",
+      "Nhà nước của cộng đồng dân tộc, do nhân dân ủy quyền và quản lý chủ yếu bằng chính sách",
+      "Nhà nước pháp quyền xã hội chủ nghĩa của nhân dân, do nhân dân, vì nhân dân, do Đảng lãnh đạo"
+    ],
+    "answer": 3,
+    "explanation": "Giáo trình xác định nhà nước pháp quyền xã hội chủ nghĩa của nhân dân, do nhân dân, vì nhân dân, do Đảng lãnh đạo. Đặc trưng kết hợp tính pháp quyền, tính nhân dân và sự lãnh đạo của Đảng.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.3.2.1 > Những đặc trưng bản chất của chủ nghĩa xã hội Việt Nam",
+      "text": "Giáo trình nêu nhà nước pháp quyền xã hội chủ nghĩa của nhân dân, do nhân dân, vì nhân dân, do Đảng lãnh đạo."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q044",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "quan hệ đối ngoại",
+    "difficulty": "Vận dụng",
+    "kind": "van_dung_tinh_huong",
+    "stem": "Một chương trình hợp tác quốc tế đề nghị chỉ thiết lập quan hệ với các nước có cùng chế độ chính trị. Cách điều chỉnh nào phù hợp với đặc trưng đối ngoại của chủ nghĩa xã hội Việt Nam?",
+    "options": [
+      "Mở rộng quan hệ hữu nghị, hợp tác với các nước trên thế giới, không lấy sự giống nhau về chế độ làm điều kiện",
+      "Chỉ mở rộng quan hệ với các nước cùng mục tiêu xã hội chủ nghĩa để giữ thống nhất về định hướng chính trị",
+      "Ưu tiên quan hệ với các nước phát triển, sau đó mới xem xét hợp tác với những nhóm quốc gia còn lại",
+      "Tiếp nhận mô hình chính trị của đối tác như một điều kiện để mở rộng quan hệ hữu nghị và hợp tác"
+    ],
+    "answer": 0,
+    "explanation": "Cương lĩnh nêu quan hệ hữu nghị và hợp tác với các nước trên thế giới, nên không giới hạn đối tác theo sự giống nhau về chế độ chính trị. Các phương án còn lại đều tự đặt thêm điều kiện mà đặc trưng này không có.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.3.2.1 > Những đặc trưng bản chất của chủ nghĩa xã hội Việt Nam",
+      "text": "Xã hội xã hội chủ nghĩa Việt Nam có quan hệ hữu nghị và hợp tác với các nước trên thế giới."
+    }
+  },
+  {
+    "id": "MLN131-C03-Q045",
+    "courseId": "mln131",
+    "chapter": "Chủ nghĩa xã hội và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "chapterNum": 3,
+    "topic": "xử lý các quan hệ lớn",
+    "difficulty": "Vận dụng",
+    "kind": "van_dung_tinh_huong",
+    "stem": "Một địa phương thúc đẩy đổi mới nhưng làm suy giảm ổn định xã hội và tách cơ chế thị trường khỏi định hướng xã hội chủ nghĩa. Cần vận dụng yêu cầu nào?",
+    "options": [
+      "Giải quyết đổi mới trước ổn định, dùng thị trường để định hình mục tiêu xã hội",
+      "Kết hợp hài hòa đổi mới – ổn định – phát triển và kinh tế thị trường – định hướng xã hội chủ nghĩa",
+      "Giữ ổn định bằng cách thu hẹp đổi mới, đồng thời tách quản lý nhà nước khỏi cơ chế thị trường",
+      "Thúc đẩy đồng thời đổi mới và thị trường, còn ổn định xã hội được xử lý bằng chính sách an sinh"
+    ],
+    "answer": 1,
+    "explanation": "Giáo trình xác định kết hợp hài hòa đổi mới – ổn định – phát triển và kinh tế thị trường – định hướng xã hội chủ nghĩa. Giáo trình yêu cầu giải quyết các quan hệ lớn, tránh phiến diện và duy ý chí.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 3 > B.3.2.2 > Phương hướng xây dựng chủ nghĩa xã hội ở Việt Nam",
+      "text": "Giáo trình nêu kết hợp hài hòa đổi mới – ổn định – phát triển và kinh tế thị trường – định hướng xã hội chủ nghĩa."
+    }
+  }
+]

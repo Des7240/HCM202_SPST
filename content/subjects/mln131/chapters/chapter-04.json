@@ -1,0 +1,922 @@
+[
+  {
+    "id": "MLN131-C04-Q001",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "khái niệm dân chủ",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Theo giáo trình, nhận định nào đúng về khái niệm dân chủ?",
+    "options": [
+      "Quyền lực được trao cho cơ quan đại diện theo nhiệm kỳ",
+      "Quyền lực thuộc về nhân dân",
+      "Quyền lực được phân chia giữa các tổ chức chính trị",
+      "Quyền lực được thực hiện theo nguyên tắc quản lý hành chính"
+    ],
+    "answer": 1,
+    "explanation": "Giáo trình xác định quyền lực thuộc về nhân dân. Khái niệm được xác định từ chủ thể sở hữu quyền lực, không phải từ kỹ thuật phân công quyền lực.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.1.1.1 > Quan niệm về dân chủ",
+      "text": "Giáo trình nêu quyền lực thuộc về nhân dân."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q002",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "dân chủ như giá trị xã hội",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Dân chủ với tư cách một giá trị xã hội được hiểu thế nào?",
+    "options": [
+      "Là nguyên tắc tổ chức gắn với hoạt động quản lý nhà nước",
+      "Là hình thái nhà nước gắn với một giai cấp cầm quyền",
+      "Là quyền chính trị được pháp luật quy định cho công dân",
+      "Là giá trị nhân loại chung tồn tại cùng con người và xã hội"
+    ],
+    "answer": 3,
+    "explanation": "Giáo trình xác định là giá trị nhân loại chung tồn tại cùng con người và xã hội. Với tư cách giá trị xã hội, dân chủ không mất đi cùng sự tiêu vong của nhà nước.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.1.1.1 > Quan niệm về dân chủ",
+      "text": "Giáo trình nêu là giá trị nhân loại chung tồn tại cùng con người và xã hội."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q003",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "dân chủ như chế độ chính trị",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Dân chủ với tư cách một chế độ chính trị được hiểu thế nào?",
+    "options": [
+      "Là hình thức hay hình thái nhà nước của giai cấp cầm quyền",
+      "Là giá trị xã hội tồn tại cùng sự phát triển của con người",
+      "Là nguyên tắc kết hợp với tập trung trong tổ chức và quản lý",
+      "Là quyền lợi căn bản của nhân dân đối với quyền lực nhà nước"
+    ],
+    "answer": 0,
+    "explanation": "Giáo trình xác định là hình thức hay hình thái nhà nước của giai cấp cầm quyền. Với tư cách chế độ chính trị, dân chủ là phạm trù lịch sử gắn với hình thái nhà nước.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.1.1.1 > Quan niệm về dân chủ",
+      "text": "Giáo trình nêu là hình thức hay hình thái nhà nước của giai cấp cầm quyền."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q004",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "dân chủ trong cộng đồng nguyên thủy",
+    "difficulty": "Thông hiểu",
+    "kind": "trinh_tu_quan_he",
+    "stem": "Cách hiểu nào phù hợp về dân chủ trong cộng đồng nguyên thủy?",
+    "options": [
+      "Thủ lĩnh quân sự nắm quyền theo cơ chế truyền ngôi trong thị tộc",
+      "Đại hội nhân dân bầu thủ lĩnh và thành viên tham gia quyết định công việc chung",
+      "Những người sở hữu nhiều tư liệu sản xuất quyết định công việc cộng đồng",
+      "Công dân tự do bầu nhà nước, còn nô lệ ở ngoài hoạt động chính trị"
+    ],
+    "answer": 1,
+    "explanation": "Giáo trình xác định đại hội nhân dân bầu thủ lĩnh và thành viên tham gia quyết định công việc chung. Đại hội nhân dân là nơi thành viên cộng đồng phát biểu và tham gia quyết định.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.1.1.2 > Sự ra đời, phát triển của dân chủ",
+      "text": "Giáo trình nêu đại hội nhân dân bầu thủ lĩnh và thành viên tham gia quyết định công việc chung."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q005",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "dân chủ chủ nô",
+    "difficulty": "Thông hiểu",
+    "kind": "thong_hieu_phan_biet",
+    "stem": "Giáo trình nhấn mạnh điều gì khi bàn về dân chủ chủ nô?",
+    "options": [
+      "Quyền tham gia nhà nước thuộc chủ nô và một bộ phận công dân tự do, không gồm nô lệ",
+      "Quyền tham gia nhà nước thuộc các công dân tự do và những nô lệ đã trưởng thành",
+      "Quyền lực cộng đồng được thực hiện qua Đại hội nhân dân của toàn thể thị tộc",
+      "Quyền chính trị được phân bổ theo mức đóng góp kinh tế của các tầng lớp xã hội"
+    ],
+    "answer": 0,
+    "explanation": "Giáo trình xác định quyền tham gia nhà nước thuộc chủ nô và một bộ phận công dân tự do, không gồm nô lệ. Giới hạn nằm ở nội hàm “dân”: nô lệ không được tham gia công việc nhà nước.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.1.1.2 > Sự ra đời, phát triển của dân chủ",
+      "text": "Giáo trình nêu quyền tham gia nhà nước thuộc chủ nô và một bộ phận công dân tự do, không gồm nô lệ."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q006",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "dân chủ tư sản",
+    "difficulty": "Thông hiểu",
+    "kind": "trinh_tu_quan_he",
+    "stem": "Phát biểu nào diễn đạt chính xác dân chủ tư sản?",
+    "options": [
+      "Nền dân chủ thực hiện quyền lực của đại đa số nhân dân lao động thông qua nhà nước mới",
+      "Nền dân chủ là bước tiến về tự do, bình đẳng nhưng vẫn phục vụ thiểu số sở hữu tư liệu sản xuất",
+      "Nền dân chủ duy trì cơ chế chuyên chế phong kiến nhưng mở rộng một số quyền kinh tế",
+      "Nền dân chủ phát triển từ cộng đồng tự quản và chưa gắn với sự ra đời của nhà nước"
+    ],
+    "answer": 1,
+    "explanation": "Giáo trình xác định nền dân chủ là bước tiến về tự do, bình đẳng nhưng vẫn phục vụ thiểu số sở hữu tư liệu sản xuất. Bước tiến về quyền tự do không xóa bản chất giai cấp do nền tảng tư hữu quy định.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.1.1.2 > Sự ra đời, phát triển của dân chủ",
+      "text": "Giáo trình nêu nền dân chủ là bước tiến về tự do, bình đẳng nhưng vẫn phục vụ thiểu số sở hữu tư liệu sản xuất."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q007",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "tính lịch sử của dân chủ",
+    "difficulty": "Vận dụng",
+    "kind": "van_dung_tinh_huong",
+    "stem": "Một người cho rằng mọi thời đại đều phải có cùng một hình thức dân chủ. Cách đánh giá nào phù hợp với tính lịch sử của dân chủ?",
+    "options": [
+      "Dùng mô hình dân chủ tư sản cho các xã hội có nền kinh tế thị trường",
+      "Lấy dân chủ nguyên thủy làm khuôn mẫu vì cộng đồng trực tiếp quyết định",
+      "Xem xét nội dung và hình thức dân chủ trong điều kiện kinh tế – xã hội, giai cấp cụ thể",
+      "Chọn hình thức có mức tham gia trực tiếp cao hơn bất kể cơ cấu xã hội"
+    ],
+    "answer": 2,
+    "explanation": "Giáo trình xác định xem xét nội dung và hình thức dân chủ trong điều kiện kinh tế – xã hội, giai cấp cụ thể. Hình thức dân chủ biến đổi cùng điều kiện kinh tế – xã hội và cơ cấu giai cấp.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.1.1.2 > Sự ra đời, phát triển của dân chủ",
+      "text": "Giáo trình nêu xem xét nội dung và hình thức dân chủ trong điều kiện kinh tế – xã hội, giai cấp cụ thể."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q008",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "đánh giá dân chủ chỉ là khẩu hiệu",
+    "difficulty": "Vận dụng",
+    "kind": "van_dung_tinh_huong",
+    "stem": "Một cơ quan thường xuyên nói về dân chủ nhưng không công khai thông tin, không có cơ chế tham gia và không bảo đảm điều kiện thực hiện. Nhận định nào đúng nhất?",
+    "options": [
+      "Bổ sung quy định về quyền nhưng giao cơ quan tự chọn thời điểm thực hiện",
+      "Thiết lập kênh tham gia nhưng giữ thông tin trong phạm vi người đại diện",
+      "Công bố thông tin sau quyết định để người dân biết và thực hiện",
+      "Thể chế hóa quyền, công khai thông tin và tạo điều kiện để nhân dân tham gia thực tế"
+    ],
+    "answer": 3,
+    "explanation": "Giáo trình xác định thể chế hóa quyền, công khai thông tin và tạo điều kiện để nhân dân tham gia thực tế. Quyền được tuyên bố chưa thành quyền làm chủ thực tế nếu thiếu thể chế và điều kiện tham gia.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.1.1.2 > Sự ra đời, phát triển của dân chủ",
+      "text": "Giáo trình nêu thể chế hóa quyền, công khai thông tin và tạo điều kiện để nhân dân tham gia thực tế."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q009",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "sự ra đời dân chủ xã hội chủ nghĩa",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Mốc nào đánh dấu nền dân chủ xã hội chủ nghĩa chính thức được xác lập?",
+    "options": [
+      "Được xác lập từ Công xã Pari năm 1871 và hoàn thiện trước Cách mạng Tháng Mười",
+      "Hình thành trong phong trào công nhân Pháp rồi phát triển tách khỏi nhà nước mới",
+      "Ra đời từ cải cách dân chủ tư sản và chuyển dần quyền lực cho người lao động",
+      "Chính thức được xác lập sau Cách mạng Tháng Mười Nga và sự ra đời nhà nước xã hội chủ nghĩa"
+    ],
+    "answer": 3,
+    "explanation": "Giáo trình xác định chính thức được xác lập sau Cách mạng Tháng Mười Nga và sự ra đời nhà nước xã hội chủ nghĩa. Công xã Pari mới là sự phôi thai; thắng lợi năm 1917 mới chính thức xác lập nền dân chủ mới.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.1.2.1 > Quá trình ra đời của dân chủ xã hội chủ nghĩa",
+      "text": "Giáo trình nêu chính thức được xác lập sau Cách mạng Tháng Mười Nga và sự ra đời nhà nước xã hội chủ nghĩa."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q010",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "bản chất chính trị của dân chủ xã hội chủ nghĩa",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Nội dung nào phản ánh đúng bản chất chính trị của dân chủ xã hội chủ nghĩa?",
+    "options": [
+      "Mang bản chất giai cấp công nhân, có tính nhân dân rộng rãi và tính dân tộc sâu sắc",
+      "Mang bản chất của liên minh các giai cấp, còn vai trò công nhân giới hạn ở lãnh đạo kinh tế",
+      "Mang tính nhân dân rộng rãi nên bản chất giai cấp giảm dần trong thời kỳ quá độ",
+      "Mang bản chất giai cấp công nhân nhưng quyền lực chính trị tập trung vào riêng công nhân"
+    ],
+    "answer": 0,
+    "explanation": "Giáo trình xác định mang bản chất giai cấp công nhân, có tính nhân dân rộng rãi và tính dân tộc sâu sắc. Bản chất giai cấp công nhân thống nhất với tính nhân dân rộng rãi và tính dân tộc sâu sắc.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.1.2.2 > Bản chất của dân chủ xã hội chủ nghĩa",
+      "text": "Giáo trình nêu mang bản chất giai cấp công nhân, có tính nhân dân rộng rãi và tính dân tộc sâu sắc."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q011",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "bản chất kinh tế của dân chủ xã hội chủ nghĩa",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Điểm cốt lõi của bản chất kinh tế của dân chủ xã hội chủ nghĩa là gì?",
+    "options": [
+      "Dựa trên sở hữu tư nhân có điều tiết và phân phối bình quân giữa người lao động",
+      "Dựa trên nhiều hình thức sở hữu ngang vai trò và phân phối theo vốn góp là chủ yếu",
+      "Dựa trên sở hữu xã hội về tư liệu sản xuất chủ yếu, lực lượng sản xuất hiện đại",
+      "Dựa trên công hữu tư liệu tiêu dùng và duy trì sản xuất nhỏ trong thời kỳ quá độ"
+    ],
+    "answer": 2,
+    "explanation": "Giáo trình xác định dựa trên sở hữu xã hội về tư liệu sản xuất chủ yếu, lực lượng sản xuất hiện đại. Công hữu tư liệu sản xuất chủ yếu phải gắn với phát triển lực lượng sản xuất hiện đại.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.1.2.2 > Bản chất của dân chủ xã hội chủ nghĩa",
+      "text": "Giáo trình nêu dựa trên sở hữu xã hội về tư liệu sản xuất chủ yếu, lực lượng sản xuất hiện đại."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q012",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "bản chất tư tưởng – văn hóa",
+    "difficulty": "Thông hiểu",
+    "kind": "trinh_tu_quan_he",
+    "stem": "Cách hiểu nào phù hợp về bản chất tư tưởng – văn hóa?",
+    "options": [
+      "Lấy giá trị văn hóa truyền thống làm chủ đạo và tiếp nhận có chọn lọc lý luận Mác – Lênin",
+      "Lấy hệ tư tưởng Mác – Lênin làm chủ đạo, kế thừa văn hóa dân tộc và tinh hoa nhân loại",
+      "Kết hợp ngang nhau các hệ tư tưởng hiện có để tạo đồng thuận văn hóa – xã hội",
+      "Lấy thành tựu văn minh hiện đại làm nền tảng, còn bản sắc dân tộc giữ vai trò bổ trợ"
+    ],
+    "answer": 1,
+    "explanation": "Giáo trình xác định lấy hệ tư tưởng Mác – Lênin làm chủ đạo, kế thừa văn hóa dân tộc và tinh hoa nhân loại. Hệ tư tưởng chủ đạo không đồng nghĩa đoạn tuyệt văn hóa dân tộc và thành tựu văn minh nhân loại.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.1.2.2 > Bản chất của dân chủ xã hội chủ nghĩa",
+      "text": "Giáo trình nêu lấy hệ tư tưởng Mác – Lênin làm chủ đạo, kế thừa văn hóa dân tộc và tinh hoa nhân loại."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q013",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "mục tiêu dân chủ xã hội chủ nghĩa",
+    "difficulty": "Thông hiểu",
+    "kind": "thong_hieu_phan_biet",
+    "stem": "Mục tiêu cốt lõi của nền dân chủ xã hội chủ nghĩa là gì?",
+    "options": [
+      "Xác lập quyền lực thuộc về nhân dân, để nhân dân là chủ và thực hiện quyền làm chủ",
+      "Mở rộng phạm vi bầu cử để nhân dân chọn người đại diện trong bộ máy nhà nước",
+      "Nâng cao đời sống vật chất để tạo điều kiện cho người dân tham gia quản lý xã hội",
+      "Kết hợp lợi ích cá nhân, tập thể và xã hội nhằm động viên tiềm năng sáng tạo"
+    ],
+    "answer": 0,
+    "explanation": "Giáo trình xác định xác lập quyền lực thuộc về nhân dân, để nhân dân là chủ và thực hiện quyền làm chủ. Mục tiêu là xác lập địa vị chủ thể quyền lực và khả năng tham gia quản lý của nhân dân.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.1.2.2 > Bản chất của dân chủ xã hội chủ nghĩa",
+      "text": "Giáo trình nêu xác lập quyền lực thuộc về nhân dân, để nhân dân là chủ và thực hiện quyền làm chủ."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q014",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "dân chủ và kỷ cương",
+    "difficulty": "Thông hiểu",
+    "kind": "trinh_tu_quan_he",
+    "stem": "Phát biểu nào diễn đạt chính xác dân chủ và kỷ cương?",
+    "options": [
+      "Giữ kỷ cương bằng quản lý hành chính, đồng thời thu hẹp các hình thức dân chủ trực tiếp",
+      "Mở rộng quyền tham gia trước, sau đó hoàn thiện pháp luật theo thực tiễn phát sinh",
+      "Mở rộng dân chủ gắn với kỷ luật, kỷ cương và sự bảo đảm của pháp luật",
+      "Giao cộng đồng tự quy định giới hạn tham gia theo điều kiện riêng của từng địa phương"
+    ],
+    "answer": 2,
+    "explanation": "Giáo trình xác định dân chủ phải được thể chế hóa, bảo đảm bằng pháp luật và đi đôi với kỷ luật, kỷ cương. Kỷ cương không đồng nghĩa thu hẹp dân chủ trực tiếp hay tách việc mở rộng quyền khỏi khuôn khổ pháp luật.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.3.1.2 > Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam",
+      "text": "Dân chủ gắn với pháp luật, phải đi đôi với kỷ luật, kỷ cương và được pháp luật bảo đảm."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q015",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "dân chủ trực tiếp và đại diện",
+    "difficulty": "Vận dụng",
+    "kind": "van_dung_tinh_huong",
+    "stem": "Một địa phương chỉ cho người dân bầu đại diện nhưng không mở kênh góp ý trực tiếp đối với vấn đề sát sườn. Cần bổ sung cách thực hiện dân chủ nào?",
+    "options": [
+      "Kết hợp dân chủ gián tiếp với dân chủ trực tiếp trong những vấn đề người dân có thể tham gia",
+      "Chuyển các vấn đề địa phương sang trưng cầu trực tiếp và giảm vai trò cơ quan đại diện",
+      "Duy trì dân chủ đại diện, bổ sung việc cung cấp thông tin sau khi đại biểu quyết định",
+      "Mở kênh góp ý trực tiếp nhưng giao đại biểu lựa chọn ý kiến phù hợp để công bố"
+    ],
+    "answer": 0,
+    "explanation": "Giáo trình xác định kết hợp dân chủ gián tiếp với dân chủ trực tiếp trong những vấn đề người dân có thể tham gia. Dân chủ trực tiếp bổ sung cho đại diện; hai hình thức không triệt tiêu vai trò của nhau.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.3.1.2 > Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam",
+      "text": "Giáo trình nêu kết hợp dân chủ gián tiếp với dân chủ trực tiếp trong những vấn đề người dân có thể tham gia."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q016",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "vận dụng quyền làm chủ",
+    "difficulty": "Vận dụng",
+    "kind": "van_dung_tinh_huong",
+    "stem": "Một dự án công không công bố phương án, không lấy ý kiến và cũng không giải trình quyết định. Giải pháp nào giúp người dân thực hiện quyền làm chủ?",
+    "options": [
+      "Công khai phương án, tạo kênh tham gia và giải trình việc tiếp thu ý kiến nhân dân",
+      "Lấy ý kiến qua đại diện, còn nội dung phương án được cơ quan chuyên môn giữ kín",
+      "Công bố dự án sau phê duyệt, tiếp nhận kiến nghị trong quá trình triển khai",
+      "Công khai mục tiêu chung nhưng giới hạn thông tin về phương án và tiêu chí quyết định"
+    ],
+    "answer": 0,
+    "explanation": "Quyền làm chủ đòi hỏi người dân có thông tin, có kênh tham gia và biết ý kiến của mình được tiếp thu, giải trình ra sao. Chỉ công bố sau phê duyệt hoặc lấy ý kiến khi giữ kín phương án không tạo điều kiện tham gia thực chất.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.3.1.2 > Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam",
+      "text": "Dân chủ phải được thực hiện trong đời sống thực tiễn; đường lối, chính sách và pháp luật có sự tham gia ý kiến của nhân dân."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q017",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "nguồn gốc nhà nước xã hội chủ nghĩa",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Theo giáo trình, nhận định nào đúng về nguồn gốc nhà nước xã hội chủ nghĩa?",
+    "options": [
+      "Ra đời từ cải cách nhà nước tư sản dưới sức ép của phong trào công nhân",
+      "Do giai cấp công nhân lập ra sau khi đạt ưu thế trong cạnh tranh nghị trường",
+      "Hình thành từ các tổ chức tự quản kinh tế của nhân dân lao động trong xã hội cũ",
+      "Là kết quả cách mạng của giai cấp vô sản và nhân dân lao động dưới sự lãnh đạo của Đảng Cộng sản"
+    ],
+    "answer": 3,
+    "explanation": "Giáo trình xác định là kết quả cách mạng của giai cấp vô sản và nhân dân lao động dưới sự lãnh đạo của Đảng Cộng sản. Nhà nước mới là kết quả cách mạng dưới sự lãnh đạo của Đảng Cộng sản, không phải cải cách tự phát.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.2.1.1 > Sự ra đời của nhà nước xã hội chủ nghĩa",
+      "text": "Giáo trình nêu là kết quả cách mạng của giai cấp vô sản và nhân dân lao động dưới sự lãnh đạo của Đảng Cộng sản."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q018",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "bản chất nhà nước xã hội chủ nghĩa",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Bản chất chính trị của nhà nước xã hội chủ nghĩa được giáo trình xác định thế nào?",
+    "options": [
+      "Mang bản chất nhân dân nói chung và điều hòa lợi ích giữa các giai cấp trong xã hội mới",
+      "Mang bản chất giai cấp công nhân, đại biểu cho ý chí chung của nhân dân lao động",
+      "Mang bản chất liên minh công – nông và phục vụ trước hết các lực lượng tham gia cách mạng",
+      "Mang bản chất giai cấp công nhân nhưng quyền lực xã hội thuộc bộ máy hành chính chuyên nghiệp"
+    ],
+    "answer": 1,
+    "explanation": "Giáo trình xác định mang bản chất giai cấp công nhân, đại biểu cho ý chí chung của nhân dân lao động. Bản chất công nhân hướng tới giải phóng và đại diện ý chí chung của đại đa số nhân dân lao động.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.2.1 > Bản chất và chức năng của nhà nước xã hội chủ nghĩa",
+      "text": "Giáo trình nêu mang bản chất giai cấp công nhân, đại biểu cho ý chí chung của nhân dân lao động."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q019",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "chức năng trấn áp",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Điểm cốt lõi của chức năng trấn áp là gì?",
+    "options": [
+      "Trấn áp các nhóm chưa đồng thuận với chính sách để giữ ổn định hoạt động quản lý",
+      "Trấn áp giai cấp bóc lột đã bị lật đổ và phần tử chống đối để bảo vệ thành quả cách mạng",
+      "Trấn áp vi phạm kinh tế nhằm tạo nguồn lực cho nhiệm vụ tổ chức và xây dựng xã hội",
+      "Trấn áp tàn dư tư tưởng của xã hội cũ bằng các biện pháp quản lý văn hóa – giáo dục"
+    ],
+    "answer": 1,
+    "explanation": "Chức năng trấn áp của nhà nước xã hội chủ nghĩa hướng vào giai cấp bóc lột đã bị lật đổ và những phần tử chống đối nhằm bảo vệ thành quả cách mạng. Không thể đồng nhất bất đồng chính sách với đối tượng bị trấn áp.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.2.1 > Bản chất và chức năng của nhà nước xã hội chủ nghĩa",
+      "text": "Nhà nước xã hội chủ nghĩa trấn áp giai cấp bóc lột đã bị lật đổ và phần tử chống đối để bảo vệ thành quả cách mạng."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q020",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "chức năng tổ chức xây dựng",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Cách hiểu nào phù hợp về chức năng tổ chức xây dựng?",
+    "options": [
+      "Tổ chức lao động và sản xuất để tăng nguồn lực cho hoạt động của bộ máy cưỡng chế",
+      "Tổ chức, quản lý kinh tế – xã hội nhằm xây dựng xã hội mới và nâng cao đời sống nhân dân",
+      "Tổ chức dịch vụ hành chính, còn phát triển kinh tế do các chủ thể thị trường đảm nhiệm",
+      "Tổ chức đời sống văn hóa – xã hội trước, còn quản lý kinh tế thực hiện sau thời kỳ quá độ"
+    ],
+    "answer": 1,
+    "explanation": "Giáo trình xác định tổ chức, quản lý kinh tế – xã hội nhằm xây dựng xã hội mới và nâng cao đời sống nhân dân. Tổ chức, quản lý và xây dựng kinh tế – xã hội là nhiệm vụ then chốt của chính quyền mới.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.2.1 > Bản chất và chức năng của nhà nước xã hội chủ nghĩa",
+      "text": "Giáo trình nêu tổ chức, quản lý kinh tế – xã hội nhằm xây dựng xã hội mới và nâng cao đời sống nhân dân."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q021",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "nhà nước nửa nhà nước",
+    "difficulty": "Thông hiểu",
+    "kind": "thong_hieu_phan_biet",
+    "stem": "Vì sao nhà nước xã hội chủ nghĩa được gọi là “nửa nhà nước”?",
+    "options": [
+      "Là nhà nước có bộ máy hành chính nhỏ hơn vì giao phần lớn quản lý cho cộng đồng tự quản",
+      "Là nhà nước chuyển từ chức năng giai cấp sang chức năng xã hội ngay sau khi cách mạng thắng lợi",
+      "Vừa là bộ máy cưỡng chế, vừa là tổ chức quản lý kinh tế – xã hội của nhân dân lao động",
+      "Vừa đại diện giai cấp công nhân, vừa điều hòa quyền lực ngang nhau giữa các giai cấp"
+    ],
+    "answer": 2,
+    "explanation": "Giáo trình xác định vừa là bộ máy cưỡng chế, vừa là tổ chức quản lý kinh tế – xã hội của nhân dân lao động. “Nửa nhà nước” diễn tả sự kết hợp bộ máy cưỡng chế với tổ chức quản lý của nhân dân lao động.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.2.1 > Bản chất và chức năng của nhà nước xã hội chủ nghĩa",
+      "text": "Giáo trình nêu vừa là bộ máy cưỡng chế, vừa là tổ chức quản lý kinh tế – xã hội của nhân dân lao động."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q022",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "quan hệ dân chủ và nhà nước",
+    "difficulty": "Thông hiểu",
+    "kind": "trinh_tu_quan_he",
+    "stem": "Phát biểu nào diễn đạt chính xác quan hệ dân chủ và nhà nước?",
+    "options": [
+      "Nhà nước tạo ra dân chủ bằng pháp luật, còn dân chủ phát triển độc lập với hoạt động nhà nước",
+      "Dân chủ giới hạn quyền lực nhà nước, còn nhà nước chủ yếu thực hiện chức năng bảo vệ chế độ",
+      "Dân chủ là nền tảng của nhà nước; nhà nước thể chế hóa và tổ chức thực hiện quyền làm chủ",
+      "Nhà nước đại diện nhân dân nên cơ chế dân chủ tham gia giữ vai trò hỗ trợ hoạt động quản lý"
+    ],
+    "answer": 2,
+    "explanation": "Dân chủ xã hội chủ nghĩa là cơ sở, nền tảng cho việc xây dựng và hoạt động của nhà nước xã hội chủ nghĩa; ngược lại, nhà nước thể chế hóa và tổ chức thực hiện quyền làm chủ. Hai mặt này gắn bó, không thể giản lược nhà nước vào chức năng bảo vệ chế độ.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.2.2 > Quan hệ giữa dân chủ và nhà nước xã hội chủ nghĩa",
+      "text": "Dân chủ là nền tảng của nhà nước xã hội chủ nghĩa; nhà nước là công cụ thực hiện quyền làm chủ của nhân dân."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q023",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "pháp luật trong nhà nước mới",
+    "difficulty": "Thông hiểu",
+    "kind": "thong_hieu_phan_biet",
+    "stem": "Kết luận nào đúng khi xem xét pháp luật trong nhà nước mới?",
+    "options": [
+      "Pháp luật chuyển ý chí của cơ quan lãnh đạo thành nghĩa vụ của nhân dân lao động",
+      "Pháp luật phân định trách nhiệm công dân nhưng dành quyền quyết định cuối cùng cho nhà nước",
+      "Pháp luật quy định quyền tham gia, còn lợi ích chính đáng được bảo vệ bằng cơ chế xã hội",
+      "Pháp luật thể chế hóa ý chí nhân dân, xác định quyền, trách nhiệm và bảo vệ lợi ích chính đáng"
+    ],
+    "answer": 3,
+    "explanation": "Giáo trình xác định pháp luật thể chế hóa ý chí nhân dân, xác định quyền, trách nhiệm và bảo vệ lợi ích chính đáng. Pháp luật vừa xác định quyền, trách nhiệm vừa bảo vệ lợi ích chính đáng của người dân.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.2.2 > Quan hệ giữa dân chủ và nhà nước xã hội chủ nghĩa",
+      "text": "Giáo trình nêu pháp luật thể chế hóa ý chí nhân dân, xác định quyền, trách nhiệm và bảo vệ lợi ích chính đáng."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q024",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "đánh giá cơ quan chỉ chú trọng cưỡng chế",
+    "difficulty": "Vận dụng",
+    "kind": "van_dung_tinh_huong",
+    "stem": "Một cơ quan nhà nước chỉ chú trọng cưỡng chế, xem nhẹ tổ chức kinh tế, văn hóa, xã hội và phục vụ đời sống nhân dân. Cần điều chỉnh thế nào?",
+    "options": [
+      "Duy trì trọng tâm cưỡng chế, đồng thời mở rộng một số dịch vụ hành chính cho người dân",
+      "Tăng biện pháp cưỡng chế để tạo ổn định rồi triển khai nhiệm vụ phát triển xã hội",
+      "Chuyển chức năng phát triển kinh tế – xã hội cho các tổ chức ngoài nhà nước",
+      "Bổ sung hoạt động tổ chức, quản lý kinh tế – xã hội và nâng cao đời sống nhân dân"
+    ],
+    "answer": 3,
+    "explanation": "Giáo trình coi chức năng tổ chức và xây dựng kinh tế, văn hóa, xã hội là công việc chủ yếu của nhà nước xã hội chủ nghĩa. Vì vậy, cơ quan phải bổ sung hoạt động quản lý phát triển và chăm lo đời sống, không duy trì cưỡng chế làm trọng tâm.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.2.1 > Bản chất và chức năng của nhà nước xã hội chủ nghĩa",
+      "text": "Chức năng tổ chức, xây dựng và quản lý kinh tế – xã hội nhằm nâng cao đời sống nhân dân là công việc chủ yếu của nhà nước xã hội chủ nghĩa."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q025",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "bản chất dân chủ Việt Nam",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Vị trí của dân chủ xã hội chủ nghĩa trong chế độ Việt Nam được xác định thế nào?",
+    "options": [
+      "Là một phương thức tổ chức quyền lực phục vụ mục tiêu phát triển kinh tế",
+      "Là bản chất của chế độ, vừa là mục tiêu vừa là động lực phát triển đất nước",
+      "Là thành quả của đổi mới và điều kiện để hoàn thiện hệ thống pháp luật",
+      "Là nguyên tắc quản lý xã hội gắn với trách nhiệm của cơ quan nhà nước"
+    ],
+    "answer": 1,
+    "explanation": "Giáo trình xác định là bản chất của chế độ, vừa là mục tiêu vừa là động lực phát triển đất nước. Giáo trình đặt dân chủ đồng thời ở ba vị trí: bản chất, mục tiêu và động lực phát triển.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.3.1.2 > Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam",
+      "text": "Giáo trình nêu là bản chất của chế độ, vừa là mục tiêu vừa là động lực phát triển đất nước."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q026",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "phương châm quyền làm chủ",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Nội dung nào phản ánh đúng phương châm quyền làm chủ?",
+    "options": [
+      "Dân biết, dân góp ý, cơ quan có thẩm quyền quyết định và báo cáo kết quả",
+      "Dân biết, dân bàn, dân thực hiện, cơ quan nhà nước tổ chức kiểm tra",
+      "Dân biết, dân bàn, dân làm, dân kiểm tra",
+      "Dân được thông tin, tham gia bàn bạc, đại diện thực hiện và cơ quan kiểm tra"
+    ],
+    "answer": 2,
+    "explanation": "Giáo trình xác định dân biết, dân bàn, dân làm, dân kiểm tra. Đây là nguyên văn phương châm trong snapshot giáo trình năm 2019, không có hai vế bổ sung về sau.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.3.1.2 > Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam",
+      "text": "Giáo trình nêu dân biết, dân bàn, dân làm, dân kiểm tra."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q027",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "dân chủ qua Nhà nước",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Điểm cốt lõi của dân chủ qua Nhà nước là gì?",
+    "options": [
+      "Nhân dân tham gia trực tiếp việc quản lý nhà nước ở các lĩnh vực chuyên môn",
+      "Nhân dân ủy quyền cho bộ máy hành chính rồi giám sát thông qua tổ chức xã hội",
+      "Nhân dân thực hiện quyền lực thông qua đại biểu và các cơ quan do mình bầu ra",
+      "Nhân dân thực hiện quyền lực qua các đoàn thể, còn bầu cử thuộc hoạt động nhà nước"
+    ],
+    "answer": 2,
+    "explanation": "Dân chủ thông qua Nhà nước là hình thức dân chủ gián tiếp: nhân dân thực hiện quyền lực qua đại biểu và các cơ quan do mình bầu ra. Tham gia trực tiếp quản lý từng lĩnh vực chuyên môn không phải dấu hiệu xác định của hình thức này.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.3.1.2 > Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam",
+      "text": "Nhân dân thực hiện quyền lực nhà nước thông qua đại biểu và các cơ quan quyền lực do mình bầu ra."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q028",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "dân chủ qua tổ chức xã hội",
+    "difficulty": "Thông hiểu",
+    "kind": "trinh_tu_quan_he",
+    "stem": "Cách hiểu nào phù hợp về dân chủ qua tổ chức xã hội?",
+    "options": [
+      "Các tổ chức chính trị – xã hội tham gia giám sát, phản biện và bảo vệ lợi ích chính đáng của nhân dân",
+      "Các tổ chức chính trị – xã hội truyền đạt chính sách và vận động nhân dân thực hiện nghĩa vụ",
+      "Các tổ chức chính trị – xã hội đại diện nhân dân quyết định công việc thuộc cơ quan nhà nước",
+      "Các tổ chức chính trị – xã hội tập hợp ý kiến nhưng không tham gia giám sát việc thực hiện"
+    ],
+    "answer": 0,
+    "explanation": "Giáo trình xác định các tổ chức chính trị – xã hội tham gia giám sát, phản biện và bảo vệ lợi ích chính đáng của nhân dân. Giám sát và phản biện là vai trò tham gia đặc thù, không biến tổ chức xã hội thành cơ quan nhà nước.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.3.3.1 > Phát huy dân chủ xã hội chủ nghĩa ở Việt Nam",
+      "text": "Giáo trình nêu các tổ chức chính trị – xã hội tham gia giám sát, phản biện và bảo vệ lợi ích chính đáng của nhân dân."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q029",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "dân chủ ở cơ sở",
+    "difficulty": "Thông hiểu",
+    "kind": "thong_hieu_phan_biet",
+    "stem": "Giáo trình nhấn mạnh điều gì khi bàn về dân chủ ở cơ sở?",
+    "options": [
+      "Thực hiện quyền làm chủ theo phương châm dân biết, dân bàn, dân làm, dân kiểm tra",
+      "Công khai quyết định sau khi ban hành và tiếp nhận phản ánh trong quá trình thực hiện",
+      "Tổ chức lấy ý kiến định kỳ thông qua đại diện của các đoàn thể tại địa phương",
+      "Phân cấp cho chính quyền cơ sở quyết định và báo cáo kết quả với cộng đồng dân cư"
+    ],
+    "answer": 0,
+    "explanation": "Giáo trình xác định thực hiện quyền làm chủ theo phương châm dân biết, dân bàn, dân làm, dân kiểm tra. Phương châm bốn vế gắn việc biết và bàn với hoạt động làm và kiểm tra ở cơ sở.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.3.1.2 > Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam",
+      "text": "Giáo trình nêu thực hiện quyền làm chủ theo phương châm dân biết, dân bàn, dân làm, dân kiểm tra."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q030",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "hạn chế cần khắc phục",
+    "difficulty": "Thông hiểu",
+    "kind": "trinh_tu_quan_he",
+    "stem": "Phát biểu nào diễn đạt chính xác hạn chế cần khắc phục?",
+    "options": [
+      "Pháp luật về quyền công dân phát triển chậm hơn yêu cầu mở rộng hoạt động kinh tế",
+      "Cơ chế dân chủ trực tiếp phát triển nhanh hơn năng lực quản lý của chính quyền cơ sở",
+      "Hoạt động giám sát xã hội rộng nhưng chưa gắn với phản biện của các tổ chức đại diện",
+      "Dân chủ còn hình thức, quyền làm chủ bị vi phạm và tiêu cực xã hội chưa được khắc phục triệt để"
+    ],
+    "answer": 3,
+    "explanation": "Giáo trình chỉ ra dân chủ còn có nơi mang tính hình thức, quyền làm chủ của nhân dân còn bị vi phạm và quan liêu, tham nhũng, lãng phí chưa được đẩy lùi. Các phương án khác nêu những quan hệ không được giáo trình xác định là hạn chế trọng tâm.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.3.1.2 > Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam",
+      "text": "Thực hành dân chủ còn hạn chế; quyền làm chủ có nơi bị vi phạm và các biểu hiện tiêu cực chưa được đẩy lùi."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q031",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "quan hệ dân chủ và ổn định",
+    "difficulty": "Vận dụng",
+    "kind": "van_dung_tinh_huong",
+    "stem": "Một nơi mở rộng quyền phát biểu nhưng không gắn với pháp luật và trách nhiệm, dẫn đến xung đột kéo dài. Cách xử lý nào phù hợp với quan hệ dân chủ và ổn định?",
+    "options": [
+      "Giữ phạm vi phát biểu hiện có và tăng thẩm quyền xử lý hành chính của chính quyền",
+      "Thu hẹp quyền phát biểu trong thời gian xung đột rồi khôi phục sau khi ổn định",
+      "Gắn quyền phát biểu với pháp luật, kỷ luật, trách nhiệm để tạo đồng thuận và ổn định",
+      "Mở rộng quyền phát biểu theo nhu cầu cộng đồng, còn trách nhiệm do tổ chức đại diện bảo đảm"
+    ],
+    "answer": 2,
+    "explanation": "Dân chủ phải được thể chế hóa bằng pháp luật và đi đôi với kỷ luật, kỷ cương. Vì vậy, cần gắn quyền phát biểu với trách nhiệm trong khuôn khổ pháp luật, không thu hẹp quyền hay chỉ tăng biện pháp hành chính.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.3.1.2 > Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam",
+      "text": "Dân chủ công dân gắn với kỷ cương, được thể chế hóa bằng pháp luật và đi cùng trách nhiệm công dân."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q032",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "dự án cộng đồng",
+    "difficulty": "Vận dụng",
+    "kind": "van_dung_tinh_huong",
+    "stem": "Một dự án cộng đồng đã có phương án hoàn chỉnh rồi mới thông báo cho dân, không giải thích việc tiếp thu ý kiến. Quy trình nào cần được áp dụng?",
+    "options": [
+      "Công khai phương án, lấy ý kiến trước quyết định và giải trình việc tiếp thu",
+      "Thông báo phương án sớm hơn nhưng giữ quy trình quyết định trong cơ quan chuyên môn",
+      "Lấy ý kiến người đại diện sau khi hoàn thiện phương án và công bố nội dung đã tiếp thu",
+      "Công bố các mục tiêu dự án, còn phương án cụ thể được giải trình sau khi triển khai"
+    ],
+    "answer": 0,
+    "explanation": "Giáo trình xác định công khai phương án, lấy ý kiến trước quyết định và giải trình việc tiếp thu. Tham gia có ý nghĩa khi diễn ra trước quyết định và cơ quan giải trình việc tiếp thu ý kiến.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.3.3.1 > Phát huy dân chủ xã hội chủ nghĩa ở Việt Nam",
+      "text": "Giáo trình nêu công khai phương án, lấy ý kiến trước quyết định và giải trình việc tiếp thu."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q033",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "nhà nước của nhân dân",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Theo giáo trình, nhận định nào đúng về nhà nước của nhân dân?",
+    "options": [
+      "Quyền lực nhà nước thuộc về liên minh các giai cấp và tầng lớp lao động",
+      "Quyền lực nhà nước do nhân dân ủy quyền ổn định cho các cơ quan dân cử",
+      "Mọi quyền lực nhà nước thuộc về nhân dân",
+      "Quyền lực nhà nước được phân bổ giữa nhân dân, Đảng và bộ máy quản lý"
+    ],
+    "answer": 2,
+    "explanation": "Tính chất Nhà nước của nhân dân được xác định ở chỗ mọi quyền lực nhà nước thuộc về nhân dân. Nhân dân thực hiện quyền lực trực tiếp hoặc thông qua các cơ quan đại diện, chứ không chuyển hẳn quyền lực cho một liên minh hay bộ máy.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.3.2.1 > Đặc điểm Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam",
+      "text": "Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam là Nhà nước của nhân dân; mọi quyền lực nhà nước thuộc về nhân dân."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q034",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "quyền lực nhà nước thống nhất",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Nội dung nào phản ánh đúng quyền lực nhà nước thống nhất?",
+    "options": [
+      "Quyền lực thống nhất về hành pháp, còn lập pháp và tư pháp kiểm soát từ bên ngoài bộ máy",
+      "Quyền lực phân chia thành ba nhánh độc lập, phối hợp thông qua cơ chế đại diện nhân dân",
+      "Quyền lực tập trung ở cơ quan đại diện cao nhất, các cơ quan khác thực hiện quyền được giao",
+      "Quyền lực thống nhất, có phân công, phối hợp và kiểm soát giữa cơ quan lập pháp, hành pháp, tư pháp"
+    ],
+    "answer": 3,
+    "explanation": "Quyền lực nhà nước là thống nhất nhưng có sự phân công, phối hợp và kiểm soát giữa các cơ quan thực hiện quyền lập pháp, hành pháp và tư pháp. Điều đó khác cả mô hình phân lập ba quyền lẫn tập trung toàn bộ quyền lực vào một cơ quan.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.3.2.1 > Đặc điểm Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam",
+      "text": "Quyền lực nhà nước thống nhất, có sự phân công, phối hợp và kiểm soát giữa các cơ quan lập pháp, hành pháp và tư pháp."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q035",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "vai trò Hiến pháp và pháp luật",
+    "difficulty": "Nhận biết",
+    "kind": "nhan_biet_khai_niem",
+    "stem": "Điểm cốt lõi của vai trò Hiến pháp và pháp luật là gì?",
+    "options": [
+      "Hiến pháp định hướng xây dựng pháp luật, còn cơ quan nhà nước vận dụng theo điều kiện thực tế",
+      "Nhà nước quản lý xã hội bằng chính sách, pháp luật giữ vai trò xử lý những hành vi vi phạm",
+      "Nhà nước tổ chức và hoạt động trên cơ sở Hiến pháp, pháp luật được đặt ở vị trí tối thượng",
+      "Hiến pháp quy định quyền công dân, còn tổ chức bộ máy do từng cơ quan tự xác định"
+    ],
+    "answer": 2,
+    "explanation": "Giáo trình xác định nhà nước tổ chức và hoạt động trên cơ sở Hiến pháp, pháp luật được đặt ở vị trí tối thượng. Vị trí tối thượng của Hiến pháp và pháp luật ràng buộc cả cơ quan nhà nước lẫn công dân.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.3.2.1 > Đặc điểm Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam",
+      "text": "Giáo trình nêu nhà nước tổ chức và hoạt động trên cơ sở Hiến pháp, pháp luật được đặt ở vị trí tối thượng."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q036",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "tôn trọng quyền con người",
+    "difficulty": "Thông hiểu",
+    "kind": "trinh_tu_quan_he",
+    "stem": "Cách hiểu nào phù hợp về tôn trọng quyền con người?",
+    "options": [
+      "Nhà nước mở rộng quyền dân chủ theo mức độ hoàn thiện của bộ máy và năng lực quản lý",
+      "Nhà nước bảo đảm các quyền chính trị trước, các quyền kinh tế phụ thuộc nguồn lực phát triển",
+      "Nhà nước công nhận quyền công dân theo pháp luật, còn quyền con người thuộc giá trị xã hội",
+      "Nhà nước tôn trọng quyền con người, đồng thời coi con người là trung tâm của phát triển"
+    ],
+    "answer": 3,
+    "explanation": "Nhà nước pháp quyền xã hội chủ nghĩa tôn trọng quyền con người và coi con người là trung tâm của sự phát triển. Việc bảo đảm quyền không thể bị hạ thành hệ quả tùy thuộc mức độ thuận tiện của bộ máy quản lý.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.3.2.1 > Đặc điểm Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam",
+      "text": "Nhà nước tôn trọng quyền con người, coi con người là chủ thể và trung tâm của phát triển."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q037",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "sự lãnh đạo của Đảng",
+    "difficulty": "Thông hiểu",
+    "kind": "thong_hieu_phan_biet",
+    "stem": "Đặc điểm nào phản ánh quan hệ giữa sự lãnh đạo của Đảng và giám sát của nhân dân?",
+    "options": [
+      "Đảng lãnh đạo Nhà nước thông qua việc trực tiếp thực hiện quyền lập pháp, hành pháp, tư pháp",
+      "Đảng lãnh đạo theo Hiến pháp; hoạt động nhà nước chịu sự giám sát của nhân dân",
+      "Đảng xác định chính sách, còn bộ máy nhà nước hoạt động độc lập với cơ chế giám sát xã hội",
+      "Đảng lãnh đạo hệ thống chính trị, các tổ chức được nhân dân ủy nhiệm kiểm tra nội bộ"
+    ],
+    "answer": 1,
+    "explanation": "Giáo trình xác định đảng lãnh đạo theo Hiến pháp; hoạt động nhà nước chịu sự giám sát của nhân dân. Sự lãnh đạo của Đảng được đặt trong khuôn khổ Hiến pháp và gắn với giám sát của nhân dân.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.3.2.1 > Đặc điểm Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam",
+      "text": "Giáo trình nêu đảng lãnh đạo theo Hiến pháp; hoạt động nhà nước chịu sự giám sát của nhân dân."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q038",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "kiểm soát quyền lực",
+    "difficulty": "Thông hiểu",
+    "kind": "trinh_tu_quan_he",
+    "stem": "Phát biểu nào diễn đạt chính xác kiểm soát quyền lực?",
+    "options": [
+      "Kiểm soát quyền lực nhằm ngăn lạm quyền, quan liêu, tham nhũng và bảo vệ quyền dân chủ",
+      "Kiểm soát quyền lực nhằm phân chia quyền lực nhà nước cho các cơ quan hoạt động độc lập",
+      "Kiểm soát quyền lực tập trung vào cán bộ hành chính, còn cơ quan dân cử tự giám sát nội bộ",
+      "Kiểm soát quyền lực nhằm bảo đảm cơ quan cấp dưới thực hiện thống nhất chỉ đạo cấp trên"
+    ],
+    "answer": 0,
+    "explanation": "Giáo trình xác định kiểm soát quyền lực nhằm ngăn lạm quyền, quan liêu, tham nhũng và bảo vệ quyền dân chủ. Kiểm soát lẫn nhau nhằm ngăn tha hóa quyền lực, lạm quyền, quan liêu và tham nhũng.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.3.2.1 > Đặc điểm Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam",
+      "text": "Giáo trình nêu kiểm soát quyền lực nhằm ngăn lạm quyền, quan liêu, tham nhũng và bảo vệ quyền dân chủ."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q039",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "bộ máy nhà nước",
+    "difficulty": "Thông hiểu",
+    "kind": "thong_hieu_phan_biet",
+    "stem": "Kết luận nào đúng khi xem xét bộ máy nhà nước?",
+    "options": [
+      "Phân cấp mạnh cho địa phương, giảm vai trò điều phối và giám sát của Trung ương",
+      "Mở rộng bộ máy theo các lĩnh vực quản lý mới để tăng mức độ phục vụ nhân dân",
+      "Giữ cơ cấu hiện có, tập trung nâng cao phẩm chất của đội ngũ cán bộ, công chức",
+      "Xây dựng bộ máy tinh gọn, trong sạch, nâng cao hiệu lực và hiệu quả hoạt động"
+    ],
+    "answer": 3,
+    "explanation": "Phương hướng được giáo trình nêu là xây dựng bộ máy nhà nước tinh gọn, trong sạch, hoạt động hiệu lực và hiệu quả. Phân cấp không đồng nghĩa giảm vai trò điều phối, còn giữ nguyên hay mở rộng cơ cấu không đáp ứng yêu cầu tinh gọn.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.3.3.2 > Tiếp tục xây dựng và hoàn thiện Nhà nước pháp quyền",
+      "text": "Tiếp tục xây dựng bộ máy nhà nước tinh gọn, trong sạch, có hiệu lực và hiệu quả."
+    }
+  },
+  {
+    "id": "MLN131-C04-Q040",
+    "courseId": "mln131",
+    "chapter": "Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa",
+    "chapterNum": 4,
+    "topic": "xử lý thủ tục tùy tiện",
+    "difficulty": "Vận dụng",
+    "kind": "van_dung_tinh_huong",
+    "stem": "Một cán bộ tự đặt thêm thủ tục không có trong quy định và từ chối giải thích căn cứ cho người dân. Cách xử lý nào phù hợp với Nhà nước pháp quyền xã hội chủ nghĩa?",
+    "options": [
+      "Chấp nhận thủ tục bổ sung nếu cán bộ cho rằng giúp quản lý hồ sơ chặt chẽ hơn",
+      "Áp dụng đúng quy định, công khai căn cứ và bảo đảm quyền khiếu nại, giám sát",
+      "Giữ thủ tục nhưng yêu cầu cán bộ giải thích miệng cho từng người dân khi được hỏi",
+      "Tạm dừng giải quyết để cơ quan ban hành hướng dẫn riêng cho trường hợp phát sinh"
+    ],
+    "answer": 1,
+    "explanation": "Giáo trình xác định áp dụng đúng quy định, công khai căn cứ và bảo đảm quyền khiếu nại, giám sát. Tự đặt thủ tục trái quy định vi phạm yêu cầu thượng tôn pháp luật và trách nhiệm giải trình.",
+    "source": {
+      "file": "giao-trinh-chu-nghia-xa-hoi-khoa-hoc-2021.md",
+      "section": "Chương 4 > B.3.3.2 > Tiếp tục xây dựng và hoàn thiện Nhà nước pháp quyền",
+      "text": "Giáo trình nêu áp dụng đúng quy định, công khai căn cứ và bảo đảm quyền khiếu nại, giám sát."
+    }
+  }
+]
